@@ -1,0 +1,13 @@
+{
+  "gejala": "Gejala Dalam Kehamilan dan Persalinan",
+  "judul": "JUDUL GEJALA",
+  "pertanyaan": "PERTANYAAN PERTAMA?",
+  "q": {
+    "ya": "...",
+    "tidak": {
+      "q": "PERTANYAAN KEDUA?",
+      "ya": "...",
+      "tidak": "..."
+    }
+  }
+}

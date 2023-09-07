@@ -1,0 +1,13 @@
+{
+  "gejala": "Gejala Di Telinga dan Pendengaran",
+  "judul": "JUDUL GEJALA",
+  "pertanyaan": "PERTANYAAN PERTAMA?",
+  "q": {
+    "ya": "...",
+    "tidak": {
+      "q": "PERTANYAAN KEDUA?",
+      "ya": "...",
+      "tidak": "..."
+    }
+  }
+}

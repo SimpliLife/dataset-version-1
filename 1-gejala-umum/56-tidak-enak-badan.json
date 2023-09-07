@@ -1,0 +1,25 @@
+{
+  "gejala": "Gejala Umum (Seluruh Tubuh)",
+  "judul": "Tidak enak badan",
+  "pertanyaan": "Apakah anda terus waswas atau khawatir tanpa jelas sebabnya?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\nKecemasaran terhadap suatu hal spesifik atau penumbpukan sebagai stress da kekhawatiran bisa menimbulkan perasaan kurang sehat.",
+    "tidak": {
+      "q": "Apakah berat badan Anda turun sendiri sampai 4 kg dalam 10 miggu terakhir?",
+      "ya": "KEMUNGKINAN PENYEBAB\nLINK(58-berat-badan-turun.json)",
+      "tidak": {
+        "q": "Apakah suhu badan Anda sampai 38ᴼC?",
+        "ya": "KEMUNGKINAN PENYEBAB\nSuatu infeksi virus yang menyebabkan rasa tidak enak badan disertai demam.",
+        "tidak": {
+          "q": "Apakah Anda sering meminum alkohol?",
+          "ya": "KEMUNGKINAN PENYEBAB\nKonsumsi alkohol berlebihan bisa merusak kesehatan fisik maupun mental.\nTINDAKAN\nKurangilah konsumsi alkohol sampai batas aman. Bila Anda sulit menguranginya konsultasi ke dokter.",
+          "tidak": {
+            "q": "Apakah Anda sedang minum obat (resep, bebas, maupun rekreasional)?",
+            "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nBeberapa obat tertentu bisa menimbulkan efek samping merasa bisa menimbulkan edek samping kurang enak badan. Tanyakan ke dokter dan sementara itu hentikan pemakaian semua obat bebas dan obat reaksional.",
+            "tidak": "PERIKSAKAN KE DOKTER, KAMI BERLUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+          }
+        }
+      }
+    }
+  }
+}

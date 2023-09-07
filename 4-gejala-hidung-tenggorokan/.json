@@ -1,0 +1,13 @@
+{
+  "gejala": "Gejala Di Hidung dan Tenggorokan",
+  "judul": "JUDUL GEJALA",
+  "pertanyaan": "PERTANYAAN PERTAMA?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n",
+    "tidak": {
+      "q": "PERTANYAAN KEDUA?",
+      "ya": "...",
+      "tidak": "..."
+    }
+  }
+}

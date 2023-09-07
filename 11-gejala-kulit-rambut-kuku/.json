@@ -1,0 +1,13 @@
+{
+  "gejala": "Gejala Di Kulit Rambut dan Kuku",
+  "judul": "JUDUL GEJALA",
+  "pertanyaan": "PERTANYAAN PERTAMA?",
+  "q": {
+    "ya": "...",
+    "tidak": {
+      "q": "PERTANYAAN KEDUA?",
+      "ya": "...",
+      "tidak": "..."
+    }
+  }
+}
