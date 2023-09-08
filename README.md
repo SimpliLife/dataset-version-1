@@ -33,7 +33,7 @@ format object json
 8. Gejala Di Mata dan Penglihatan
 9. Gejala Berat Badan dan Pertumbuhan
 10. Gejala Di Otak dan Sistem Saraf
-11. Gejala Di Kulit Rambut dan Kuku
+11. Gejala Di Kulit 
 12. Gejala Dalam Kehamilan dan Persalinan
 
 
