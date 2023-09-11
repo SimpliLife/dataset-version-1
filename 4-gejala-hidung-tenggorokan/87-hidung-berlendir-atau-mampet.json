@@ -1,0 +1,31 @@
+{
+  "gejala": "Gejala Di Hidung dan Tenggorokan",
+  "judul": "Hidung Berlendir atau Mampet",
+  "pertanyaan": "Apakah hidung Anda berlendir atau tersumbat selama lebih dari 1 bulan?",
+  "q": {
+    "ya": {
+      "q": "Apakah gejalanya semakin memburuk?",
+      "ya": "KEMUNGKINAN PENYEBAB\nMungkin anda mengidap polip rongga hidung, yaitu jaringan dinding hidung tumbuh berlebih. Kemungkinan lain, anda mengalami infeksi sinus menetap. Periksakan ke dokter.\nTINDAKAN\nDokter akan merujuk anda ke rumah sakit untuk menjalani pemeriksaan menyeluruh hidung-tenggorokan. Bila sinus anda terkena, mungkin anda perlu diperiksa sinar-X atau MRI. Penanganan bisa mencakup pembedahan atau pengobatan.",
+      "tidak": {
+        "q": "KEMUNGKINAN PENYEBAB\nMungkin anda mengidap alergi terhadap bahan tertentu, misalnya debu rumah atau bulu binatang. Kondisi ini, sering disebut rhinitis alergi perenial, sama dengan demam jerami, namun bisa timbul setiap saat.\nTINDAKAN\nBila mengetahui pemicu alerginya, usahakan menghindarinya. Banyak tersedia obat bebas antialergi, namun bila tidak menolong, periksakan ke dokter, yang bisa meresepkan obat lain."
+      }
+    },
+    "tidak": {
+      "q": "Apakah keluar cairan encer dari hidung?",
+      "ya": {
+        "q": "Adakah anggota tubuh yang pegal dan tenggorokan serak?",
+        "ya": "KEMUNGKINAN PENYEBAB\nPilek biasa atau infeksi virus lain mungkin penyebab hidung anda berlendir.\nTINDAKAN\nIkuti langkah-langkah meredakan gejalanya. Bila gejalanya tidak menghilang dalam 2 minggu, konsultasikan ke dokter.",
+        "tidak": {
+          "q": "Gatalkah mata Anda?",
+          "ya": "KEMUNGKINAN PENYEBAB\nDemam jerami (alergi rhinitis musiman) adalah sebuah kemungkinan. Kondisi ini disebabkan alergi terhadap bunga rumput dan biasa timbul di musim semi atau musim panas.\nTINDAKAN\nUsahakan tetap berada di dalam rumah ketika banyak bunga rumput beterbangan, dan hindari daerah berumput tinggi. Pil antihistamin atau tetes hidung kortikosteroid yang dijual bebas juga akan bisa menolong. Bila semua itu tidak efektif, periksakan ke dokter, yang akan bisa meresepkan obat yang lain.",
+          "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+        }
+      },
+      "tidak": {
+        "q": "Adakah cairan hijau atau kuning dari hidung dan/atau nyeri di wajah?",
+        "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nSinusitis, radang di selaput penyekat rongga tulang wajah, mungkin penyebabnya. Obat pereda nyeri akan membantu meredakan gejalanya. Anda juga bisa mencoba menghirup uap: isikan air panas ke sebuah mangkuk sampai sepertiganya, lalu hiruplah uapnya selama beberapa menit. Bila tidak membaik dalam 48 jam, periksakan ke dokter, yang akan bisa meresepkan antibiotika.",
+        "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+      }
+    }
+  }
+}
