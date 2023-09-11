@@ -1,0 +1,32 @@
+{
+  "gejala": "Gejala Di Perut dan Sistem Pencernaan",
+  "judul": "Masuk Angin",
+  "pertanyaan": "Apakah kembungnya berkurang setelah bersendawa?",
+  "q": {
+    "ya": {
+      "q": "Adakah rasa sakit terbakar di tengah dada, terutama ketika Anda membungkuk atau berbaring?",
+      "ya": "KEMUNGKINAN PENYEBAB\nRefluks gastro-oesofageal, yaitu asam lambung termuntahkan naik di esofagus, menyebabkan peradangan dan rasa terbakar di dada, sering disertai dengan rasa tidak nyaman dan bersendawa. Periksakan ke dokter.\nTINDAKAN\nDokter akan memberi saran mengatasi refluks gastro-oesofageal. Bila gejalanya tidak membaik, anda akan diberi resep obat tukak lambung yang mengurangi produksi asam lambung.",
+      "tidak": {
+        "q": "Apakah Anda sering merasa kenyang yang tidak nyaman seusai makan?",
+        "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nGangguan pencernaan, yang sering disertai kembung, sangat mungkin penyebabnya. Makanlah sedikit-sedikit dan hindari minuman beroksigen. Minum antasida akan bisa membantu meredakan gejalanya. Bila kembungnya menetap, periksakan ke dokter.",
+        "tidak": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nTerus menerus menelan udara tanpa sadar, misalnya karena kebiasaan di saat gugup, bisa menyebabkan kembung. Bila hal ini membuat anda cemas, periksakan ke dokter."
+      }
+    },
+    "tidak": {
+      "q": "Apakah Anda baru memakan kacang-kacangan, bawang atau kubis atau apakah Anda baru minum bir?",
+      "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nMakanan berserat tinggi, serta minuman mengandung yist, sering menimbulkan gas berlebih di usus. Hal ini tidak perlu dicemaskan.",
+      "tidak": {
+        "q": "Apakah Anda sedang terserang sakit perut bagian bawah yang agak mereda setelah buang angin atau buang air besar?",
+        "ya": {
+          "q": "Apakah kembungnya timbul atau semakin parah bila mengonsumsi produk-produk susu?",
+          "ya": "KEMUNGKINAN PENYEBAB\nTidak tahan laktosa, yaitu gula alami di dalam susu tidak tercerna lalu meragi dan menghasilkan gas, adalah sebuah kemungkinan. Periksakan ke dokter.\nTINDAKAN\nDokter akan meminta anda menyusun buku harian makanan dan/atau dokter akan melakukan pemeriksaan contoh tinja untuk memastikan diagnosanya. Menghindari semua produk susu akan mengurangi gejalanya. Pada orang dewasa, kondisi ini mungkin berlaku seumur hidup.",
+          "tidak": {
+            "q": "Apakah tinja tampak pucat, encer, dan terutama sangat berbau?",
+            "ya": "KEMUNGKINAN PENYEBAB\nSalah-cerna, yaitu sistem pencernaan tidak bisa menyerap zat gizi dari makanan dengan baik, adalah sebuah kemungkinan. Makanan yang tidak tercerna lalu meragi dan menimbulkan gas. Periksakan ke dokter.\nTINDAKAN\nBila menduga salah-cerna, dokter akan meminta tes darah atau tinja. Bila diagnosanya membenarkan dugaan ini, mungkin perlu tes lanjutan untuk mencari penyebab sebenarnya.",
+            "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+          }
+        }
+      }
+    }
+  }
+}
