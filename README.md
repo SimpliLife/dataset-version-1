@@ -46,9 +46,9 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 
 ## 1. Gejala Umum (Seluruh Tubuh)
 1. Tidak enak badan `56-tidak-enak-badan.json` ✅
-2. Keletihan `57-keletihan.json`
-3. Demam `61-demam.json`
-4. Benjolan dan bengkak `74-benjolan-dan-bengkak.json`
+2. Keletihan `57-keletihan.json` ✅
+3. Demam `61-demam.json` ✅
+4. Benjolan dan bengkak `74-benjolan-dan-bengkak.json` ✅
 
 ## 2. Gejala Di Tulang, Sendi dan Otot
 5. Nyeri sendi `110-nyeri-sendi.json`
@@ -68,8 +68,8 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 15. Batuk `91-batuk.json`
 
 ## 5. Gejala Di Telinga dan Pendengaran
-16. Telinga berdenging `85-telinga-berdenging.json`
-17. Nyeri telinga `86-nyeri-telinga.json`
+16. Telinga berdenging `85-telinga-berdenging.json` ✅
+17. Nyeri telinga `86-nyeri-telinga.json` ✅
 
 ## 6. Gejala Jantung dan Paru-Paru
 18. Sesak nafas `92-sesak-nafas.json`
