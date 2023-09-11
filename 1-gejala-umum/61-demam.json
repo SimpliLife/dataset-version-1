@@ -1,0 +1,72 @@
+{
+  "gejala": "Gejala Umum (Seluruh Tubuh)",
+  "judul": "Demam",
+  "pertanyaan": "Adakah ruam di kulit?",
+  "q": {
+    "ya": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI.",
+    "tidak": {
+      "q": "Adakah salah satu gejala berikut? Sakit kepala parah, nyeri leher saat menundukan kepala, tidak suka cahaya terang, mengantuk atau bingung.",
+      "ya": "KEMUNGKINAN PENYEBAB\n Ada kemungkinan ini adalah gejala meningitis, yaitu radang selaput sekitar otak akibat infeksi. \nTINDAKAN\n Bila diduga meningitis, Anda harus segera dibawa ke rumah sakit. Anda akan ditangani dengan segera dengan antibiotika dan mungkin memerlukan perawatan intensif.",
+      "tidak": {
+        "q": "Apakah Anda juga batuk?",
+        "ya": {
+          "q": "Apakah nafas terasa sesak, walau sedang istirahat, dan/atau ada terbatukkan dahak kecoklatan ?",
+          "ya": {
+            "q": "KEMUNGKINAN PENYEBAB\n Mungkin terjadi suatu infeksi dada, misalnya pneumonia (infeksi ruang udara di paru-paru). Hal ini bisa serius, terutama pada mereka yang sudah memiliki kesehatan buruk. \nTINDAKAN\n Sambil menunggu bantuan medis, lakukan langkah mengatasi demam. Bila benar hal itu adalah pneumonia, dokter akan akan memberikan resep antibiotika dan meminta Anda menjalankan pemeriksaan sinar-X dada. Mungkin Anda perlu dirawat-inap.",
+            "tidak": {
+              "q": "Apakah Anda batuk berdahak kuning keabu-abuan ?",
+              "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Bronkitis akut (radang saluran udara di paru-paru) akibat infeksi virus adalah kemungkinan penyebab paling besar. Lakukan langkah-langkah mengatasi demam. Hubungi dokter bila Anda merokok, hentikan segera. Biasanya tidak perlu penanganan medis, namun harus diperiksakan ke dokter bila belum membaik dalam beberapa hari. Bila Anda menjadi tidak bisa bernafas sama sekali, segeralah periksakan ke dokter.",
+              "tidak": {
+                "q": "Adakah salah satu gejala berikut? Sakit kepala ringan, nyeri di anggota badan, hidung berlendir ?",
+                "ya": {
+                  "q": "KEMUNGKINAN PENYEBAB\n Mungkin sekali ini adalah infeksi virus, misalnya flu. \nTINDAKAN\n Atasi demamnya. Hubungi dokter bila Anda menjadi tak bisa bernafas atau bila Anda tidak membaik dalam 48 jam.",
+                  "tidak": {
+                    "q": "Apakah batuk Anda mengeluarkan darah ?",
+                    "ya": "KEMUNGKINAN PENYEBAB\n Mungkin ada kelainan serius di paru-paru, seperti tuberkulosis atau kanker paru-paru. \nTINDAKAN\n Dokter mungkin akan meminta tes darah dan dahak, serta pemeriksaan sinar-X. Boleh jadi Anda akan dirujuk ke spesialis untuk menjalani beberapa tes, seperti bronkoskopi, yang akan memastikan bentuk penanganan yang diperlukan.",
+                    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI. (This part refers to “Apakah batuk Anda mengeluarkan darah ?”)"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tidak": {
+          "q": "Apakah tenggorokan terasa serak ?",
+          "ya": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI.",
+          "tidak": {
+            "q": "Adakah salah satu dari gejala berikut ? Nyeri di satu atau di kedua sisi punggung, buang air kecil lebih sering dari biasa, nyeri untuk buang air kecil, urin tak berwarna atau keruh.",
+            "ya": {
+              "q": "KEMUNGKINAN PENYEBAB\n Radang ginjal (pyelonefritis) atau radang kandung kemih (sistititis) akibat infeksi mungkin penyebab gejala yang Anda alami. \nTINDAKAN\n Dokter akan memeriksa contoh urin untuk mencari tanda-tanda infeksi. Mungkin dia akan memberikan antibiotika. Wanita yang sudah beberapa kali terinfeksi atau pria yang pernah terinfeksi mungkin memerlukan tes lebih lanjut, misalnya scan ultrasonik, untuk memeriksa adanya penyebab lain yang mendasarinya.",
+              "tidak": {
+                "q": "Apakah Anda berada di negeri tropis ?",
+                "ya": {
+                  "q": "KEMUNGKINAN PENYEBAB\n Ada kemungkinan ini sejenis penyakit tropis, seperti misalnya malaria atau tifoid. \nTINDAKAN\n Bila menduga ini akibat penyakit tropis, dokter akan meminta Anda menjalani beberapa tes, termasuk tes darah dan tinja. Bentuk penanganan akan tergantung pada hasil tes.",
+                  "tidak": {
+                    "q": "Bila Anda wanita, adakah cairan asing dari vagina yang disertai nyeri lambung bagian bawah ?",
+                    "ya": {
+                      "q": "KEMUNGKINAN PENYEBAB\n Mungkin ini gejala penyakit radang panggul, peradangan organ-organ reproduksi, seringkali akibat infeksi tularan seksual. \nTINDAKAN\n Dokter akan melakukan beberapa tes untuk memastikan diagnosa ini. Mungkin Anda akan diberi pereda nyeri dan resep antibiotik.",
+                      "tidak": {
+                        "q": "Apakah Anda baru saja terjemur terik matahari atau di udara yang sangat panas ?",
+                        "ya": {
+                          "q": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Terpapar panas bisa menjadi penyebab naiknya suhu tubuh Anda. Untuk menurunkannya, istirahatlah di ruangan yang sejuk dan minumlah banyak air dingin. Bila temperatur Anda belum turun dalam sejam, segera periksakan ke dokter.",
+                          "tidak": {
+                            "q": "Dalam beberapa minggu terakhir, apakah Anda mengalami demam kambuhan, terkadang disertai turunnya berat badan tanpa disengaja ?",
+                            "ya": {
+                              "q": "KEMUNGKINAN PENYEBAB\n Suatu kelainan serius seperti tuberkulosis, kanker bonggol limfe, atau sakit sertaan AIDS, mungkin penyebab gejala yang Anda alami. \nTINDAKAN\n Dokter akan memeriksa Anda dan mungkin melakukan tes darah dan/atau dahak. Dia juga bisa meminta pemeriksaan sinar-X dan tes-tes lain. Boleh jadi Anda akan dirujuk ke spesialis untuk pemeriksaan lanjutan dan perawatan.",
+                              "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
