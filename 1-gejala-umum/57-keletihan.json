@@ -1,0 +1,29 @@
+{
+  "gejala": "Gejala Umum (Seluruh Tubuh)",
+  "judul": "Kelelahan",
+  "q": {
+    "ya": "Adakah salah satu dari gejala berikut? Kehausan yang makin meningkat, lebih sering berkemih dari biasa, penglihatan kabur.",
+    "tidak": {
+      "q": "Apakah berat badan Anda turun sendiri sampai 4 KG dalam 10 minggu terakhir?",
+      "ya": "KEMUNGKINAN PENYEBAB\nLINK(58-berat-badan-turun.json)",
+      "tidak": {
+        "q": "Adakah salah satu gejala berikut? Merasa dingin lebih dari biasanya, rambut menipis dan getas, berat badan bertambah sendiri, kulit kering dan/ kasar.",
+        "ya": "KEMUNGKINAN PENYEBAB\nAda kemungkinan Anda mengidap hipertiroidisme (kelenjar tiroid kurang aktif). Periksakan ke dokter.\nTINDAKAN\nDokter akan mengukur tingkat hormon tiroid dari contoh darah Anda. Bila diagnosanya benar demikian, Anda akan diberi resep obat tiroid yang harus diminum sepanjang hayat. Pemeriksaan darah sesekali diperlukan untuk memantau dosisnya.",
+        "tidak": {
+          "q": "Adakah salah satu gejala berikut? Nafas sesak, kulit lebih pucat, merasa lemas.",
+          "ya": "KEMUNGKINAN PENYEBAB\nMungkin Anda mengidap anemia, yaitu terlalu sedikit pigmen hemoglobin pembawa oksigen dalam darah Anda. Anemia bisa timbul dari berbagai penyebab lain.\nTINDAKAN\nDokter akan melakukan beberapa pemeriksaan darah untuk memastikan diagnosa ini. Pada beberapa kasus, mungkin diperlukan beberapa tes lanjutan untuk menemukan penyebab anemianya. Penanganan anemia biasanya perlu digabung dengan penanganan penyebab lain yang mendasarinya.",
+          "tidak": {
+            "q": "Apakah Anda sedang minum suatu obat resep?",
+            "ya": "KEMUNGKINAN PENYEBAB\nBeberapa jenis obat seperti bloker-beta terkadang bisa memiliki efek samping pada kelelahan.\nTINDAKAN\nPeriksakan ke dokter. Sementara itu jangan hentikan pemakaian obat resepnya.",
+            "tidak": {
+              "q": "Adakah salah satu gejala berikut? Sulit berkonsentrasi, sulit tidur, kurang bersemangat, hilang gairah seks.",
+              "ya": "KEMUNGKINAN PENYEBAB\nDepresi bisa berkembang menjadi kelelahan dan rasa kurang bersemangat.",
+              "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
