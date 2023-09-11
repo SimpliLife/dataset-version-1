@@ -1,0 +1,34 @@
+{
+  "gejala": "Gejala Umum (Seluruh Tubuh)",
+  "judul": "Bintil dan Benjolan",
+  "pertanyaan": "Adakah sebuah bintil merah yang sakit?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n Mungkin itu adalah bisul yang terjadi karena infeksi oleh bakteri. \nTINDAKAN\n Kebanyakan bisul akan hilang sendiri. Namun bila sebuah bisul tidak membaik dalam 48 jam atau bila Anda menjadi kurang sehat, periksakanlah ke dokter. Dokter mungkin akan meresepkan antibiotika atau menguras nanahnya dengan bius setempat.",
+    "tidak": {
+      "q": "Adakah benjolan di sekitar kelamin yang hilang bila ditekan?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Hernia, yaitu sebagian usus halus menerobos bagian yang lemah di otot dinding perut, mungkin penyebabnya. Konsultasikan ke dokter. \nTINDAKAN\n Bila memastikan karena hernia, dokter akan merujuk Anda menjalani operasi untuk memperbaiki dinding perut. Bila sebuah hernia terasa meradang bila disentuh, segera periksakan ke dokter.",
+      "tidak": {
+        "q": "Adakah benjolan atau bintil di antara telinga dengan ujung rahang?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Mungkin ada pembesaran kelenjar ludah akibat salurannya tersumbat, atau mungkin ada infeksi virus gondok. Periksakan ke dokter. \nTINDAKAN\n Bila karena tersumbatnya saluran kelenjar ludah, mungkin Anda akan dirujuk ke rumah sakit untuk dirawat. Tidak ada penanganan untuk gondok, namun akan hilang sendiri dalam 2 minggu. Dokter mungkin akan memberi pereda nyeri untuk mengurangi ketidaknyamanan.",
+        "tidak": {
+          "q": "Adakah benjolan atau bintil di leher?",
+          "ya": {
+            "q": "Apakah juga ada benjolan atau bintil di ketiak dan/atau sekitar kelamin?",
+            "ya": {
+              "q": "Apakah Anda baru saja terserang ruam kulit?",
+              "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Salah satu infeksi virus, termasuk rubella, bisa menjadi penyebabnya. Periksakan ke dokter bila Anda tidak membaik dalam 2 hari. Bila Anda sedang hamil atau berhubungan dengan wanita hamil, periksakan ke dokter dalam 24 jam untuk memastikan diagnosa ini. Rubella bisa membahayakan janin.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Demam kelenjar (infeksi mononukleosis) atau infeksi virus lain sangat mungkin jadi penyebabnya, terutama pada usia muda. Namun bintil atau benjolan yang menetap mungkin karena penyakit yang menyerang sistem kekebalan tubuh, seperti kanker sistem limfe (limfoma) atau sakit sertaan AIDS. \nTINDAKAN\n Dokter akan memeriksa dan melakukan tes darah. Tidak ada penanganan khusus untuk demam kelenjar, namun akan hilang sendiri. Bila menduga ada penyebab lain, dokter akan merujuk Anda ke rumah sakit untuk menjalani beberapa tes."
+            },
+            "tidak": {
+              "q": "Apakah tenggorokan terasa serak?",
+              "ya": "KEMUNGKINAN PENYEBAB\n LINK(88-serak-atau-suara-hilang.json)",
+              "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+            }
+          },
+          "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI. (This part refers to - Adakah benjolan atau bintil di leher ?)"
+        }
+      }
+    }
+  }
+}
+
