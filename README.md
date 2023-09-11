@@ -63,7 +63,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 12. Diare `104-diare.json`
 
 ## 4. Gejala Di Hidung dan Tenggorokan
-13. Hidung berlendir atau mampet `87-hidung-berlendir-atau-mampet.json`
+13. Hidung berlendir atau mampet `87-hidung-berlendir-atau-mampet.json` ✅
 14. Serak atau suara hilang `88-serak-atau-suara-hilang.json`
 15. Batuk `91-batuk.json`
 
