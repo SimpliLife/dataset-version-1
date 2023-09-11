@@ -59,7 +59,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 ## 3. Gejala Di Perut dan Sistem Pencernaan
 9. Muntah `98-muntah.json`
 10. Sakit perut `100-sakit-perut.json`
-11. Masuk angin `103-masuk-angin.json`
+11. Masuk angin `103-masuk-angin.json` ✅
 12. Diare `104-diare.json`
 
 ## 4. Gejala Di Hidung dan Tenggorokan
