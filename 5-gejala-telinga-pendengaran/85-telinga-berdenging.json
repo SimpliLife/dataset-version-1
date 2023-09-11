@@ -1,0 +1,33 @@
+{
+  "gejala": "Gejala Telinga dan Pendengaran",
+  "judul": "Telinga Berdenging",
+  "pertanyaan": "Apakah bising itu timbul saat atau setelah penerbangan dengan pesawat terbang?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\nBarotrauma, kerusakan gendang telinga karena perbedaan temperatur antara telinga tengah dan telinga luar, terutama bila Anda sudah menderita hidung tersumbat ketika melakukan perjalanan. \nTINDAKAN\nTiuplah melalui hidung dengan menjepit cuping hidung. Pada banyak kasus, langkah ini bisa memulihkan pendengaran. Bila barotrauma menetap sampai lebih dari 24 jam, periksakan ke dokter. Untuk mencegah masalah timbul lagi, ikuti langkah pencegahan masalah telinga dalam penerbangan.",
+    "tidak": {
+      "q": "Pernahkah Anda terserang pusing seolah segalanya berputar, dan Anda juga kehilangan pendengaran?",
+      "ya": "KEMUNGKINAN PENYEBAB\nMungkin Anda mengidap sakit Meniere, yaitu ada kenaikan pembentukan cairan di telinga bagian dalam. Periksakan ke dokter. \nTINDAKAN\nDokter akan melakukan beberapa tes, termasuk tes pendengaran. Bila benar karena penyakit Meniere, Anda akan diberi obat untuk mengurangi cairan di telinga bagian dalam. Pada kasus yang sangat jarang, operasi mungkin diperlukan.",
+      "tidak": {
+        "q": "Adakah pendengaran Anda hilang sebagian?",
+        "ya": {
+          "q": "Apakah Anda baru saja terpapar pada kebisingan?",
+          "ya": {
+            "q": "Apakah terjadinya dalam 24 jam terakhir?",
+            "ya": "KEMUNGKINAN PENYEBAB\nBaru terpapar suara sangat bising akan bisa membuat telinga berdenging atau hilang pendengaran untuk sementara. \nTINDAKAN\nGejala ini akan hilang sendiri dalam beberapa jam. Namun bila tidak membaik dalam 24 jam, periksalah ke dokter. Untuk masa selanjutnya, lindungi pendengaran Anda bila tahu akan terpapar ke suara bising.",
+            "tidak": "KEMUNGKINAN PENYEBAB\nTerpapar pada suara bising bisa membuat pendengaran berkurang permanen, yang sering berkaitan dengan suara bising di telinga."
+          },
+          "tidak": "KEMUNGKINAN PENYEBAB\nPada banyak kasus, hilang pendengaran berkaitan dengan bising di telinga."
+        },
+        "tidak": {
+          "q": "Apakah Anda sedang atau usai memakai sebuah obat resep atau obat bebas?",
+          "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nObat tertentu, misalnya aspirin, bisa menyebabkan bising di telinga sebagai efek samping. Hentikan pemakaian semua obat bebas dan konsultasikan ke dokter. Sementara itu, lanjutkan pemakaian obat resep.",
+          "tidak": {
+            "q": "Apakah terdengar suara desir bersama denyut jantung Anda?",
+            "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nMungkin ini suara aliran darah di dalam telinga. Suara ini biasa dan biasanya tidak perlu dicemaskan. Namun kadang-kadang hal ini berkaitan dengan tekanan darah tinggi.",
+            "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+          }
+        }
+      }
+    }
+  }
+}
