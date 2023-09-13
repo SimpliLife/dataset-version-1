@@ -1,0 +1,42 @@
+{
+    "gejala": "Gejala Dalam Kehamilan dan Persalinan",
+    "judul": "Perubahan kulit saat hamil",
+    "pertanyaan": "Adakah perubahan pada sebuah masalah di kulit yang sudah lama ada?",
+    "q": {
+      "ya": "KEMUNGKINAN PENYEBAB\n Kondisi kulit biasanya membaik di saat hamil, walau penyebabnya adalah infeksi seperti herpes atau kutil akibat virus. Periksakan ke dokter. \nTINDAKAN\n Dokter mungkin akan mengganti obat anda yang biasa di saat anda hamil. Setelah bayi anda lahir, kulit anda mungkin akan kembali ke keadaan semula.",
+      "tidak": {
+        "q": "Adakah daerah yang lebih gelap di kulit?",
+        "ya": {
+          "q": "Apakah daerah yang lebih gelap ini hanya di daerah pipi?",
+          "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Tanda naiknya pigmentasi di pipi, biasa disebut chloasma, adalah wajar dalam kehamilan. Hal itu akibat perubahan hormon dalam tubuh. Hindari terkena cahaya matahari langsung, karena bisa memperburuk kondisinya. Jejak itu akan berangsur memudar setelah persalinan, namun bisa kambuh lagi pada kehamilan berikutnya atau bila anda memakai pil KB.",
+          "tidak": {
+            "q": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Peningkatan pigmentasi, terutama di perut bawah bagian tengah dan di sekitar puting adalah wajar dalam kehamilan. Hal itu akibat perubahan hormon di tubuh dan umumnya akan memudar setelah bersalin. Namun, mungkin warna puting anda akan tetap gelap."
+          }
+        },
+        "tidak": {
+          "q": "Adakah bintik hitam dan/atau bintik merah empuk di wajah, punggung dan/atau dada?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Kemungkinan itu adalah jerawat, yang timbul bila folikel rambut tersumbat oleh sebum (zat berminyak yang dikeluarkan kelenjar sebaseus di kulit). Hal ini bisa timbul atau memburuk di saat hamil karena perubahan hormon menyebabkan peningkatan produksi sebum. \nTINDAKAN\n Lakukan sendiri penanganan jerawat. Bila gagal, periksakan ke dokter. Namun, banyak resep obat yang tidak bisa diberikan di saat hamil.",
+          "tidak": {
+            "q": "Adakah timbul bekas tanda regangan?",
+            "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Bekas regangan di perut, paha, dan kadang-kadang payudara, adalah sangat umum terjadi pada kehamilan. Hal itu lebih berkaitan dengan perubahan pada jaringan elastik kulit, bukannya akibat seberapa besar kulit teregang, dan tak banyak yang bisa dilakukan untuk menguranginya. Walau bekas regangan tampak merah muda saat hamil, lambat laun akan memudar menjadi putih keperakan setelah persalinan dan tampak lebih samar.",
+            "tidak": {
+              "q": "Adakah gatal-gatal terutama di daerah perut?",
+              "ya": {
+                "q": "Apakah kulit yang gatal tampak normal?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Gatalnya kulit perut di saat hamil biasanya disebabkan oleh regangan dengan makin membesarnya kandungan dan tidak perlu dicemaskan. \nTINDAKAN\n Oleskan krim pelembut, misalnya krim jenis larut air, dan hindari pemakaian sabun wangi maupun produk-produk pewangi mandi lain. Kenakan pakaian-dalam dari serat alami, misalnya katun.",
+                "tidak": {
+                  "q": "Apakah usia kehamilan di atas 28 minggu dan adakah lepuh atau bintil gatal di bagian bawah perut?",
+                  "ya": {
+                    "q": "KEMUNGKINAN PENYEBAB\n Mungkin anda mengalami suatu kondisi tidak berbahaya yang disebut erupsi polimorfik kehamilan, yang terjadi pada 3 bulan terakhir kehamilan. Periksakan ke dokter. \nTINDAKAN\n Dokter mungkin akan meresepkan krim kortikosteroid. Kondisi ini biasanya hanya berlangsung selama 6 minggu.",
+                    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                  },
+                  "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
