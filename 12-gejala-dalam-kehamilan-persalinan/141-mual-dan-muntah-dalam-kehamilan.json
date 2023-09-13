@@ -1,0 +1,29 @@
+{
+  "gejala": "Gejala Dalam Kehamilan dan Persalinan",
+  "judul": "Mual dan muntah di masa hamil",
+  "pertanyaan": "Apakah kehamilan Anda kurang dari 12 minggu?",
+  "q": {
+    "ya": {
+      "q": "Adakah hal berikut yang terjadi? Sulit makan apapun tanpa muntah, sulit menelan cairan, berat badan turun.",
+      "ya": "KEMUNGKINAN PENYEBAB\n Mual dan muntah berat, disebut hiperemesis, bisa membahayakan anda dan janin bila tidak dirawat. Penyebabnya tidak diketahui, walau lebih umum dialami dalam kehamilan kembar dua atau lebih. \nTINDAKAN\n Dokter mungkin akan merujuk anda untuk dirawat-inap, dimana anda akan diberi cairan infus dan obat antiemetik. Scan ultrasonik mungkin juga dilakukan untuk memeriksa kehamilan anda. Secara berangsur anda akan bisa makan secara normal lagi.",
+      "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin menderita mual-pagi, yaitu kondisi umum di awal kehamilan berbentuk mual dan/atau muntah, diduga akibat perubahan hormon. Bisa terjadi kapanpun sepanjang hari. \nTINDAKAN\n PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+    },
+    "tidak": {
+      "q": "Adakah mual dan muntahnya baru belakangan ini?",
+      "ya": {
+        "q": "Apakah mual dan muntahnya baru belakangan ini?",
+        "ya": {
+          "q": "Apakah Anda juga mengalami sakit kepala parah dan/atau gangguan penglihatan, misalnya terasa berkunang-kunang?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Bisa jadi ini adalah migren. Lebih buruk lagi, ini mungkin gejala preeklamsia parah (h.283), terutama bila usia kehamilannya sudah 28 minggu Kondisi ini bisa membahayakan anda dan janin. \nTINDAKAN\n Dokter akan mengukur tekanan darah dan memeriksa urin anda terhadap adanya tanda- tanda preeklampsia. Bila disebabkan migrain, bisa diatasi dengan berbaring di tempat gelap dan menelan obat pereda nyeri. Bila karena preeklamsia, anda harus segera dirawat-inap untuk diawasi sambil tekanan darah anda dikontrol. Janin mungkin perlu dilahirkan lebih dini.",
+          "tidak": {
+            "q": "Apakah salah satu gejala berikut? Nyeri punggung di bawah rusuk, nyeri buang air kecil, urin keruh, sering ingin buang air kecil, suhu tubuh 38 °C atau lebih.",
+            "ya": "KEMUNGKINAN PENYEBAB\n Pielonefritis (radang ginjal karena infeksi) bisa berakibat mual dan muntah. Hal ini lebih umum terjadi di masa hamil dan bisa menyebabkan kelahiran prematur. \nTINDAKAN\n Dokter akan mengambil contoh urin anda dan meresepkan antibiotika. Bila anda sangat menderita, mungkin perlu dirawat-inap untuk segera ditangani.",
+            "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+          }
+        },
+        "tidak": "KEMUNGKINAN PENYEBAB\n Kemungkinan ini akibat refluks gastro-oesofageal, yaitu isi perut bocor naik ke esofagus, menimbulkan radang dan nyeri. Hal ini lebih umum terjadi di saat hamil, ketika bukaan esofagus ke lambung cenderung mengendur. Konsultasikan ke dokter. \nTINDAKAN\n Bila dokter memastikan refluks gastro-oesofageal, ia akan memberikan antasida. Selain itu, lakukan sendiri saran pencegahan kegagalan pencernaan dan pengendalian refluks gastro-oesofageal."
+      },
+      "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+    }
+  }
+}
