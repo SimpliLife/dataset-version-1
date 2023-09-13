@@ -1,0 +1,29 @@
+{
+  "gejala": "Gejala Di Perut dan Sistem Pencernaan",
+  "judul": "Diare",
+  "pertanyaan": "Adakah darah di tinja Anda?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\nTukak colitis (usus besar meradang dan bertukak) atau sebuah infeksi di usus, adalah kemungkinan penyebabnya.\nTINDAKAN\nDokter akan meminta hasil pemeriksaan contoh tinja untuk menghilangkan dugaan infeksi. Mungkin anda perlu menjalani beberapa tes lanjutan di rumah sakit, misalnya kolonoskopi (h.222). Penanganan akan meliputi obat kortikosteroid untuk tukak kolitis atau antibiotika untuk mengatasi infeksi.",
+    "tidak": {
+      "q": "Apakah Anda terserang diare beberapa kali dalam beberapa minggu atau bulan terakhir?",
+      "ya": {
+        "q": "Apakah Anda juga mengalami sembelit?",
+        "ya": "KEMUNGKINAN PENYEBAB\nSindrom penyakit usus, yaitu serangan sembelit dan diare bergantian, adalah sebuah kemungkinan penyebab. Namun juga ada kemungkinan kecil kanker usus besar. Periksakan ke dokter.\nTINDAKAN\nSetelah memeriksa, mungkin dokter akan meminta anda menjalani beberapa tes, misalnya kolonoskopi (h.222) untuk menyisihkan kemungkinan kanker usus besar. Kebanyakan pengidap sindrom penyakit usus bisa mengatasi sendiri gejalanya. Bila disebabkan oleh kanker usus besar, penanganan akan juga termasuk pembedahan.",
+        "tidak": {
+          "q": "Apakah Anda juga terserang serangkaian sakit perut?",
+          "ya": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI.",
+          "tidak": "KEMUNGKINAN PENYEBAB\nSerangan diare kambuhan selalu perlu dicermati untuk menghilangkan kemungkinan penyebab lain yang lebih serius, misalnya kanker usus besar.\nTINDAKAN\nDokter akan memeriksa dan mungkin meminta anda menjalani tes darah. Mungkin anda akan dirujuk ke rumah sakit untuk menjalani beberapa tes, misalnya kolonoskopi. Penanganan tergantung pada hasil tes namun bisa mencakup pembedahan."
+        }
+      },
+      "tidak": {
+        "q": "Apakah salah satu gejala berikut? Demam, muntah, makan makanan yang mungkin sudah terkontaminasi.",
+        "ya": "KEMUNGKINAN PENYEBAB\nMungkin anda keracunan makanan yang terkontaminasi bakteri atau toksin, atau mengalami gastroenteritis (radang saluran pencernaan, biasanya karena infeksi virus).\nTINDAKAN\nLakukan tindakan pencegahan dehidrasi bagi orang dewasa. Biasanya tidak perlu perawatan khusus, namun periksakan ke dokter bila belum membaik dalam 48 jam. Untuk mengurangi resiko kambuh, lakukan tindakan menghindari keracunan makanan.",
+        "tidak": {
+          "q": "Apakah Anda sedang minum suatu obat resep?",
+          "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Beberapa obat tertentu bisa menyebabkan diare sebagai efek samping. Konsultasikan ke dokter. Sementara itu, jangan hentikan pemakaian obat resepnya.",
+          "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+        }
+      }
+    }
+  }
+}
