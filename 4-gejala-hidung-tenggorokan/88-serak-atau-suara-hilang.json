@@ -1,0 +1,29 @@
+{
+  "gejala": "Gejala Di Hidung dan Tenggorokan",
+  "judul": "Tenggorokan Perih",
+  "pertanyaan": "Aapakah temperatur Anda 38 °C atau lebih?",
+  "q": {
+    "ya": {
+      "q": "Adakah bintil atau bengkak di dua atau lebih daerah berikut? Leher, ketiak, daerah kelamin.",
+      "ya": "KEMUNGKINAN PENYEBAB\nDemam kelenjar (infeksi mononukleosis) atau infeksi virus lain adalah penyebab yang mungkin. Periksakan ke dokter.\nTINDAKAN\nBila menduga demam kelenjar, dokter akan meminta tes darah untuk memastikan diagnosanya. Tidak ada penanganan khusus, walau langkah meredakan demam akan membantu meredakan gejalanya.",
+      "tidak": {
+        "q": "Adakah satu atau lebih gejala berikut? Sakit kepala, batuk, nyeri dan pegal",
+        "ya": "KEMUNGKINAN PENYEBAB\nSuatu infeksi virus, seperti flu atau pilek, adalah kemungkinan penyebab. \nTINDAKAN\nLakukan langkah-langkah menurunkan demam dan meredakan gejala pilek, serta beristirahatlah bila anda merasa tidak enak badan. Segera bawa ke dokter bila anda tiba-tiba sesak nafas. Bila belum membaik dalam beberapa hari, periksakanlah ke dokter.",
+        "tidak": "KEMUNGKINAN PENYEBAB\nRadang di tenggorokan (pharingitis) atau tonsil (tonsilitis) karena infeksi virus atau bakteri mungkin penyebabnya \nTINDAKAN\nLakukan langkah-langkah meredakan tenggorokan perih. Periksakan ke dokter bila tenggorokan anda sangat serak atau tidak membaik dalam beberapa hari. Dokter mungkin akan meresepkan antibiotika."
+      }
+    },
+    "tidak": {
+      "q": "Apakah hidung Anda berlendir atau tersumbat dan/atau apakah Anda juga bersin-bersin?",
+      "ya": "KEMUNGKINAN PENYEBAB\nSuatu pilek biasa yang mungkin membuat tenggorokan anda perih. \nTINDAKAN\nLakukan langkah-langkah meredakan tenggorokan serak serta perawatan pilek. Konsultasikan ke dokter bila gejalanya belum membaik dalam beberapa hari.",
+      "tidak": {
+        "q": "Apakah Anda baru atau sangat banyak merokok atau ditempat yang penuh asap?",
+        "ya": "KEMUNGKINAN PENYEBAB\nAsap adalah iritan dan mungkin sudah membuat tenggorokan anda meradang, membuatnya perih. \nTINDAKAN\nUsahakan berhenti merokok dan hindari lingkungan yang banyak asap. Tindakan sendiri bisa meredakan ketidaknyamanan. Periksakan ke dokter bila tidak membaik dalam 48 jam.",
+        "tidak": {
+          "q": "Apakah Anda sedang minum suatu obat resep?",
+          "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\nEfek samping dari obat tertentu akan mengurangi sel darah putih (pelindung penting terhadap infeksi), dan tenggorokan serak adalah akibat yang umum. Bila menduga ada efek samping obat, dokter akan meminta anda menjalani tes darah. Sementara itu, jangan hentikan pemakaian obat resep anda.",
+          "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+        }
+      }
+    }
+  }
+}
