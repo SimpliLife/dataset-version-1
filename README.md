@@ -95,5 +95,5 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 28. Masalah kulit di wajah `78-masalah-kulit-di-wajah.json`
 
 ## 12. Gejala Dalam Kehamilan dan Persalinan
-29. Mual dan muntah dalam kehamilan `141-mual-dan-muntah-dalam-kehamilan.json`
-30. Perubahan kulit dalam kehamilan `145-perubahan-kulit-dalam-kehamilan.json`
+29. Mual dan muntah dalam kehamilan `141-mual-dan-muntah-dalam-kehamilan.json` ✅
+30. Perubahan kulit dalam kehamilan `145-perubahan-kulit-dalam-kehamilan.json` ✅ 
