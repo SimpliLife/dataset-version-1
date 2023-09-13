@@ -1,0 +1,37 @@
+{
+  "gejala": "Masalah Berat Badan Berlebih (Obesitas)",
+  "judul": "Obesitas",
+  "pertanyaan": "Apakah Anda mengalami peningkatan berat badan yang signifikan dalam beberapa bulan terakhir?",
+  "q": {
+    "ya": {
+      "q": "Apakah Anda memiliki kebiasaan makan yang tidak terkontrol, terutama makanan tinggi lemak dan gula?",
+      "ya": {
+        "q": "Apakah Anda sering merasa lelah atau kekurangan energi?",
+        "ya": {
+          "q": "Apakah Anda mengalami kesulitan bergerak atau merasa tidak nyaman ketika bergerak?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Obesitas adalah kemungkinan penyebab berat badan berlebih Anda. \nTINDAKAN\n Konsultasikan dengan seorang ahli gizi atau dokter untuk merencanakan diet dan program penurunan berat badan yang sehat. Latihan fisik teratur juga dapat membantu. Ingatlah bahwa perubahan gaya hidup sehat adalah kunci untuk mengatasi obesitas.",
+          "tidak": "KEMUNGKINAN PENYEBAB\n Obesitas masih merupakan kemungkinan penyebab berat badan berlebih Anda. Namun, mungkin juga ada faktor medis lain yang perlu diperiksa lebih lanjut. \nTINDAKAN\n Segera periksakan diri ke dokter untuk evaluasi medis lebih lanjut."
+        },
+        "tidak": "KEMUNGKINAN PENYEBAB\n Pola makan yang tidak terkontrol dapat menyebabkan obesitas. \nTINDAKAN\n Pertimbangkan untuk mengadopsi pola makan seimbang dan teratur. Konsultasikan dengan seorang ahli gizi untuk mendapatkan panduan lebih lanjut."
+      },
+      "tidak": {
+        "q": "Apakah ada riwayat keluarga dengan masalah berat badan berlebih (obesitas)?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Faktor genetik dapat berperan dalam obesitas. \nTINDAKAN\n Meskipun faktor genetik tidak dapat diubah, Anda masih dapat mengendalikan berat badan Anda melalui pola makan dan gaya hidup sehat. Konsultasikan dengan seorang ahli gizi untuk membantu Anda mencapai tujuan berat badan yang sehat.",
+        "tidak": "KEMUNGKINAN PENYEBAB\n Obesitas mungkin lebih dipengaruhi oleh faktor gaya hidup. \nTINDAKAN\n Pertimbangkan untuk mengadopsi pola makan seimbang, melakukan aktivitas fisik teratur, dan menjaga gaya hidup sehat secara umum."
+      }
+    },
+    "tidak": {
+      "q": "Apakah Anda sering minum minuman berkalori tinggi seperti minuman bersoda?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Konsumsi minuman berkalori tinggi dapat berkontribusi pada obesitas. \nTINDAKAN\n Pertimbangkan untuk mengurangi atau menghindari minuman berkalori tinggi. Gantilah dengan air putih atau minuman yang lebih sehat seperti teh herbal tanpa gula.",
+      "tidak": {
+        "q": "Apakah Anda rutin mengukur tekanan darah Anda?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Obesitas dapat meningkatkan risiko tekanan darah tinggi. \nTINDAKAN\n Terus pantau tekanan darah Anda dan konsultasikan dengan dokter jika tekanan darah Anda tinggi. Pengelolaan berat badan juga dapat membantu mengendalikan tekanan darah.",
+        "tidak": {
+          "q": "Apakah Anda sering merasa tertekan atau stres?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Stres kronis dapat berkontribusi pada obesitas. \nTINDAKAN\n Pertimbangkan untuk mencari cara mengelola stres Anda, seperti meditasi, olahraga, atau konseling. Gaya hidup sehat secara menyeluruh dapat membantu mengurangi risiko obesitas.",
+          "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+        }
+      }
+    }
+  }
+}
