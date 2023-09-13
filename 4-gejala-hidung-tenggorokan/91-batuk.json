@@ -1,0 +1,45 @@
+{
+    "gejala": "Gejala Batuk",
+    "judul": "Batuk Kering atau Berdahak",
+    "pertanyaan": "Apakah Anda mengalami batuk kering atau berdahak?",
+    "q": {
+      "ya": {
+        "q": "Apakah batuk Anda disertai demam?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Batuk disertai demam dapat menjadi gejala berbagai penyakit, termasuk infeksi saluran pernapasan atas atau bawah. Periksakan ke dokter. \nTINDAKAN\n Dokter akan melakukan pemeriksaan fisik dan mungkin merujuk Anda untuk pemeriksaan lebih lanjut atau tes untuk menentukan penyebab batuk.",
+        "tidak": {
+          "q": "Apakah Anda merasa sesak napas saat batuk?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Sesak napas saat batuk bisa menjadi tanda masalah pernapasan yang serius, seperti asma. Periksakan ke dokter segera. \nTINDAKAN\n Dokter akan mengevaluasi masalah pernapasan Anda, mungkin melakukan tes fungsi paru-paru, dan meresepkan pengobatan sesuai kebutuhan.",
+          "tidak": {
+            "q": "Apakah Anda mengalami batuk berdahak dengan lendir berwarna hijau atau kuning?",
+            "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Batuk berdahak dengan lendir berwarna hijau atau kuning dapat mengindikasikan infeksi saluran pernapasan bawah, seperti bronkitis. Periksakan ke dokter. \nTINDAKAN\n Dokter mungkin akan meresepkan antibiotika atau pengobatan lain sesuai dengan penyebab infeksinya.",
+            "tidak": {
+              "q": "Apakah Anda merokok?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Merokok adalah penyebab umum batuk. Batuk akibat merokok disebut batuk perokok. Sebaiknya pertimbangkan untuk berhenti merokok. \nTINDAKAN\n Berhenti merokok dan hindari asap rokok. Batuk perokok biasanya membaik setelah berhenti merokok.",
+              "tidak": {
+                "q": "Apakah Anda memiliki riwayat alergi?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Alergi dapat menjadi penyebab batuk, terutama jika terpapar alergen yang memicu reaksi alergi. Pertimbangkan untuk berkonsultasi dengan alergologis. \nTINDAKAN\n Alergologis dapat melakukan tes alergi dan meresepkan pengobatan atau memberikan saran sesuai dengan jenis alergi Anda.",
+                "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+              }
+            }
+          }
+        }
+      },
+      "tidak": {
+        "q": "Apakah Anda juga mengalami gejala lain selain batuk, seperti demam, pilek, atau nyeri dada?",
+        "ya": {
+          "q": "Apakah Anda mengalami demam?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Demam dapat menjadi gejala infeksi atau penyakit lain. Periksakan ke dokter. \nTINDAKAN\n Dokter akan melakukan pemeriksaan fisik dan mungkin merujuk Anda untuk pemeriksaan lebih lanjut atau tes untuk menentukan penyebab demam.",
+          "tidak": {
+            "q": "Apakah Anda mengalami pilek?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Batuk dengan pilek dapat mengindikasikan infeksi saluran pernapasan atas, seperti flu. Periksakan ke dokter. \nTINDAKAN\n Dokter akan mengevaluasi gejala Anda dan meresepkan pengobatan atau tindakan sesuai dengan diagnosisnya.",
+            "tidak": {
+              "q": "Apakah Anda mengalami nyeri dada?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Nyeri dada dapat memiliki banyak penyebab, termasuk masalah jantung. Periksakan ke dokter segera. \nTINDAKAN\n Dokter akan melakukan pemeriksaan lebih lanjut, seperti elektrokardiogram (EKG), untuk menilai kondisi jantung Anda."
+            }
+          }
+        },
+        "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+      }
+    }
+  }
+  
