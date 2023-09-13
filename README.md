@@ -54,7 +54,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 5. Nyeri sendi `110-nyeri-sendi.json`
 6. Masalah-masalah kaki `116-masalah-masalah-kaki.json`
 7. Nyeri punggung `117-nyeri-punggung.json`
-8. Leher nyeri atau pegal `118-leher-nyeri-atau-pegal.json`
+8. Leher nyeri atau pegal `118-leher-nyeri-atau-pegal.json` (WIP)
 
 ## 3. Gejala Di Perut dan Sistem Pencernaan
 9. Muntah `98-muntah.json`
@@ -88,10 +88,10 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 
 ## 10. Gejala Di Otak dan Sistem Saraf
 25. Sakit kepala `22-sakit-kepala.json`
-26. Kedutan dan/atau gemetar `68-kedutan-dan-atau-gemetar.json`
+26. Kedutan dan/atau gemetar `68-kedutan-dan-atau-gemetar.json`(WIP)
 
 ## 11. Gejala Di Kulit
-27. Gatal-gatal `18-gatal-gatal.json`
+27. Gatal-gatal `18-gatal-gatal.json`(WIP)
 28. Masalah kulit di wajah `78-masalah-kulit-di-wajah.json`
 
 ## 12. Gejala Dalam Kehamilan dan Persalinan
