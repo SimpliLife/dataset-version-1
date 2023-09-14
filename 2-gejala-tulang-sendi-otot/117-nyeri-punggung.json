@@ -1,0 +1,45 @@
+{
+    "gejala": "Gejala Di Tulang, Sendi dan Otot",
+    "judul": "Nyeri punggung",
+    "pertanyaan": "Apakah nyeri punggung Anda terjadi setelah kegiatan fisik tertentu?",
+    "q": {
+      "ya": {
+        "q": "Apakah Anda baru-baru ini mengalami cedera atau jatuh?",
+        "ya": {
+          "q": "Apakah nyeri terasa tajam dan mendalam?",
+          "ya": {
+            "q": "Apakah Anda merasa kesulitan bernapas?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Cedera otot atau ligamen di punggung.\nTINDAKAN\n Istirahatkan punggung Anda dan aplikasikan es pada area yang sakit selama 20 menit setiap jamnya. Dokter mungkin akan meminta Anda melakukan MRI atau CT scan, dan merujuk Anda ke fisioterapis atau ortopedi.",
+            "tidak": "KEMUNGKINAN PENYEBAB\n Cedera ringan atau ketegangan otot.\nTINDAKAN\n Lakukan peregangan ringan dan gunakan kompres hangat. Anda mungkin akan disarankan untuk mengambil obat penghilang rasa sakit dan mengikuti terapi fisik."
+          }
+        },
+        "tidak": "KEMUNGKINAN PENYEBAB\n Otot punggung mungkin tegang atau ter strain dari aktivitas.\nTINDAKAN\n Lakukan peregangan ringan dan kompres hangat. Dokter mungkin akan merujuk Anda ke fisioterapis untuk terapi lanjutan."
+      },
+      "tidak": {
+        "q": "Apakah Anda merasakan nyeri menjalar ke kaki Anda?",
+        "ya": {
+          "q": "Apakah Anda merasa kesemutan di kaki?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Diskus hernia atau kondisi lain yang menekan saraf punggung.\nTINDAKAN\n Hindari aktivitas yang memperburuk nyeri dan coba posisi berbaring dengan bantal di bawah lutut. Dokter mungkin akan merujuk Anda ke ahli saraf dan menyarankan terapi fisik, obat penghilang rasa sakit, atau dalam kasus tertentu, operasi.",
+          "tidak": "KEMUNGKINAN PENYEBAB\n Kemungkinan radang atau iritasi pada saraf punggung.\nTINDAKAN\n Istirahat dan hindari aktivitas yang memperburuk rasa sakit. Anda mungkin akan disarankan untuk mengambil obat anti inflamasi dan melakukan sesi fisioterapi."
+        },
+        "tidak": {
+          "q": "Apakah Anda mengalami kekakuan di pagi hari yang berlangsung lebih dari 30 menit?",
+          "ya": {
+            "q": "Apakah Anda merasa kesulitan bergerak?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Kondisi seperti spondilitis ankylosing.\nTINDAKAN\n Lakukan latihan peregangan secara rutin dan hindari tidur dengan bantal yang tinggi. Dokter mungkin akan merujuk Anda ke reumatologis dan menyarankan terapi fisik serta obat anti-inflamasi.",
+            "tidak": "KEMUNGKINAN PENYEBAB\n Otot punggung yang tegang.\nTINDAKAN\n Lakukan latihan peregangan dan fisioterapi untuk meningkatkan fleksibilitas dan kekuatan."
+          },
+          "tidak": {
+            "q": "Apakah Anda memiliki riwayat osteoporosis atau patah tulang sebelumnya?",
+            "ya": {
+              "q": "Apakah Anda merasa nyeri saat batuk atau bersin?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Kemungkinan ada kompresi atau patah tulang belakang.\nTINDAKAN\n Hindari aktivitas berat dan coba posisi berbaring untuk meredakan nyeri. Dokter akan memeriksa Anda dan mungkin akan menyarankan sinar-X atau MRI. Anda mungkin juga dirujuk ke ortopedi dan diberi obat penghilang rasa sakit.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Osteoporosis atau kerapuhan tulang.\nTINDAKAN\n Konsumsi makanan kaya kalsium dan vitamin D, serta lakukan latihan yang aman untuk tulang. Anda mungkin juga akan diberi suplemen atau obat untuk meningkatkan kepadatan tulang."
+            },
+            "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+          }
+        }
+      }
+    }
+  }
+  
