@@ -1,0 +1,42 @@
+{
+    "gejala": "Gejala Di Tulang, Sendi dan Otot",
+    "judul": "Leher nyeri atau kaku",
+    "pertanyaan": "Apakah nyerinya setelah sebuah gerak menyentak ?",
+    "q": {
+      "ya": {
+        "q": "Adakah salah satu tanda bahaya seperti mengalami nyeri- leher atau baru kena benturan di leher, dan timbul masalah dengan kontrol usus atau kandung kemih ?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Mungkin ada kerusakan di saraf tulang belakang. Usahakan jangan bergerak sampai datang bantuan medis. \nTINDAKAN\n Di rumah sakit anda akan menjalani pemeriksaan sinar-X dan scan-CT, untuk mencari tempat dan lingkup kerusakannya. Pada beberapa kasus, pembedahan untuk memperbaiki patah tulang mungkin diperlukan.",
+        "tidak": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Sebuah cedera pada otot, ligamen, dan/atau tendon di leher adalah mungkin. Pada kebanyakan kasus, bisa diatasi sendiri. Istirahatkan leher sebanyak mungkin dengan berbaring agar otot leher tidak menopang berat kepala anda, dan minumlah obat bebas pereda nyeri. Bila gejalanya tidak membaik dalam 24 jam, periksakanlah ke dokter, yang mungkin menyarankan anda memakai penopang leher yang empuk."
+      },
+      "tidak": {
+        "q": "Adakah salah satu dari gejala berikut ? Sakit kepala parah, demam, tidak menyukai cahaya terang, mengantuk dan/atau linglung, ada bintik merah datar yang tidak hilang ketika ditekan",
+        "ya": "KEMUNGKINAN PENYEBAB\n Meningitis, peradangan selaput pembungkus otak, karena infeksi, mungkin penyebab gejala-gejala ini. \nTINDAKAN\n Bila diduga meningitis, anda akan segera dirujuk ke rumah sakit, untuk mendapatkan penanganan darurat dengan antibiotika dan mungkin memerlukan perawatan intensif.",
+        "tidak": {
+          "q": "Apakah Anda terbangun dengan leher kaku dan sakit ?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Mungkin anda mengalami torticollis (leher miring), yaitu otot-otot di satu sisi leher berkontraksi, menyebabkan nyeri dan kaku. Walau sakit, kondisi ini tidak berbahaya. \nTINDAKAN\n Minumlah obat bebas pereda nyeri dan istirahatkan leher sebanyak mungkin dengan berbaring agar otot leher tidak menopang berat kepala anda. Torticollis biasanya membaik dalam 24-48 jam tanpa perawatan medis. Bila belum membaik dalam 48 jam, periksakan ke dokter, yang bisa meresepkan sebuah penopang leher empuk untuk dikenakan sampai gejalanya hilang.",
+          "tidak": {
+            "q": "Adakah satu atau lebih bengkak meradang di bagian sisi leher ?",
+            "ya": "KEMUNGKINAN PENYEBAB\n LINK(74-benjolan-dan-bengkak.json)",
+            "tidak": {
+              "q": "Adakah nyeri yang menyengat ke arah lengan bawah ?",
+              "ya": {
+                "q": "Apakah nyeri ini timbul sekonyong-konyong?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Saraf ke arah lengan mungkin tertekan atau teriritasi di pangkal percabangannya di leher. Periksakan ke dokter. \nTINDAKAN\n Dokter akan memeriksa anda dan meminta anda menjalani beberapa tes, termasuk sinar-X. Dokter mungkin juga akan menyarankan anda memakai penopang leher, dan bisa merujuk anda ke fisioterapis.",
+                "tidak": {
+                  "q": "Apakah kaku atau sakitnya memburuk dalam perioda beberapa bulan?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Cervical spondilosis, osteoarthritis di tulang-tulang leher, mungkin penyebabnya. Periksakan ke dokter \nTINDAKAN\n Dokter akan meminta anda menjalani pemeriksaan sinar-X untuk memastikan diagnosa ini. Pemakaian penopang leher akan bisa meredakan gejalanya. Obat pereda nyeri yang dijual bebas juga akan bisa menolong.",
+                  "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                }
+              },
+              "tidak": {
+                "q": "Apakah kaku atau sakitnya memburuk dalam perioda beberapa bulan ?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Cervical spondilosis, osteoarthritis di tulang-tulang leher, mungkin penyebabnya. Periksakan ke dokter \nTINDAKAN\n Dokter akan meminta anda menjalani pemeriksaan sinar-X untuk memastikan diagnosa ini. Pemakaian penopang leher akan bisa meredakan gejalanya. Obat pereda nyeri yang dijual bebas juga akan bisa menolong.",
+                "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
