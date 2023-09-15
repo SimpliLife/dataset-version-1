@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Di Mata dan Penglihatan",
+  "judul": "Penglihatan Terganggu atau Rusak",
+  "pertanyaan": "Apakah penglihatan Anda tiba-tiba menjadi kabur atau hilang sepenuhnya di satu mata?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n Anda mengalami oklusi arteri retina. Hal ini bisa disebabkan oleh gumpalan darah dan berkaitan dengan tekanan darah tinggi atau diabetes.\nTINDAKAN\n Hindari menggosok mata dan istirahatlah di ruangan yang gelap. Jika kondisi tidak membaik dalam beberapa jam, segera periksakan ke dokter mata.",
+    "tidak": {
+      "q": "Apakah Anda melihat bintik-bintik hitam atau garis melayang di depan mata Anda?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami 'floaters'. Namun, jika jumlah floaters meningkat tiba-tiba atau disertai kilatan cahaya, mungkin tanda robekan retina.\nTINDAKAN\n Hindari paparan cahaya yang tajam. Jika gejala bertambah parah, segera konsultasi dengan dokter mata.",
+      "tidak": {
+        "q": "Apakah Anda merasa sulit melihat pada malam hari?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami nyctalopia atau buta senja. Hal ini bisa disebabkan oleh kekurangan vitamin A atau kondisi lain.\nTINDAKAN\n Makan makanan yang kaya vitamin A seperti wortel dan ikan. Jika masalah berlanjut, konsultasikan dengan dokter mata.",
+        "tidak": {
+          "q": "Apakah Anda mengalami sakit mata saat melihat ke cahaya terang?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin gejala awal dari radang iris mata.\nTINDAKAN\n Gunakan kacamata hitam untuk melindungi mata dari cahaya terang dan hindari paparan sinar matahari langsung. Jika sakit mata berlanjut atau memburuk, konsultasikan dengan dokter mata.",
+          "tidak": {
+            "q": "Apakah Anda mengalami penglihatan ganda?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Penglihatan ganda bisa disebabkan oleh masalah otot mata atau kondisi lain.\nTINDAKAN\n Istirahatkan mata Anda dan hindari membaca atau menonton TV dalam waktu lama. Jika gejala tidak membaik, segera konsultasi dengan dokter mata atau ahli saraf.",
+            "tidak": {
+              "q": "Apakah Anda melihat lingkaran pelangi di sekitar lampu, terutama pada malam hari?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami gejala awal glaukoma sudut tertutup.\nTINDAKAN\n Hindari paparan cahaya yang terlalu terang dan cobalah istirahat di ruangan yang gelap. Jika gejala bertambah parah, segera periksakan ke dokter mata.",
+              "tidak": {
+                "q": "Apakah Anda mengalami penglihatan kabur yang disertai dengan sakit kepala?",
+                "ya": {
+                  "q": "Apakah sakit kepala Anda terasa seperti tali yang mengejek di sekitar kepala Anda?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami migrain oftalmik.\nTINDAKAN\n Istirahatlah di ruangan yang gelap dan sejuk. Jika migrain berlanjut atau bertambah parah, konsultasikan dengan dokter Anda.",
+                  "tidak": "KEMUNGKINAN PENYEBAB\n Penglihatan kabur disertai sakit kepala bisa disebabkan oleh tekanan darah tinggi atau masalah refraksi mata.\nTINDAKAN\n Coba istirahat dan hindari aktivitas yang membebani mata. Jika kondisi berlanjut, periksakan diri Anda ke dokter umum atau dokter mata."
+                },
+                "tidak": {
+                  "q": "Apakah Anda mengalami gatal atau mata merah?",
+                  "ya": {
+                    "q": "Apakah Anda juga merasa ada benda asing di mata Anda?",
+                    "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami konjungtivitis atau 'pink eye'.\nTINDAKAN\n Cuci tangan Anda dengan rutin dan hindari kontak mata langsung. Jika mata merah berlanjut lebih dari dua hari, konsultasikan dengan dokter mata.",
+                    "tidak": "KEMUNGKINAN PENYEBAB\n Mata merah dan gatal mungkin disebabkan oleh alergi atau iritan lain.\nTINDAKAN\n Coba gunakan tetes mata antihistamin dan hindari kontak dengan alergen. Jika gejala berlanjut, konsultasi dengan dokter mata."
+                  },
+                  "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
