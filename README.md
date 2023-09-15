@@ -57,7 +57,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 8. Leher nyeri atau pegal `118-leher-nyeri-atau-pegal.json` ✅
 
 ## 3. Gejala Di Perut dan Sistem Pencernaan
-9. Muntah `98-muntah.json`
+9. Muntah `98-muntah.json` ✅
 10. Sakit perut `100-sakit-perut.json` ✅
 11. Masuk angin `103-masuk-angin.json` ✅
 12. Diare `104-diare.json` ✅
