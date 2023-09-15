@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Di Sistem Reproduksi dan Sistem Kemih",
+  "judul": "Nyeri Buang Air Kecil",
+  "pertanyaan": "Apakah Anda merasa nyeri saat buang air kecil?",
+  "q": {
+    "ya": {
+      "q": "Apakah nyeri tersebut disertai dengan rasa terbakar?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami infeksi saluran kemih (ISK) yang disebabkan oleh bakteri yang memasuki uretra dan berkembang dalam kandung kemih, terutama setelah hubungan seksual atau penggunaan kateter.\nTINDAKAN\n Minum banyak air dan hindari minuman berkafein. Jika gejala tidak membaik dalam 1-2 hari, Anda mungkin memerlukan antibiotik, sebaiknya konsultasikan dengan dokter.",
+      "tidak": {
+        "q": "Apakah Anda juga merasa nyeri di punggung bawah atau sisi tubuh?",
+        "ya": {
+          "q": "Apakah Anda mengalami demam atau menggigil?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami infeksi ginjal, suatu kondisi ketika bakteri memasuki ginjal, yang bisa disebabkan oleh komplikasi ISK atau batu ginjal.\nTINDAKAN\n Istirahat, minum banyak cairan, dan konsumsi obat pereda nyeri seperti paracetamol. Jika gejala tidak membaik atau bertambah parah, segera konsultasikan dengan dokter.",
+          "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami batu ginjal yang terbentuk dari kristal mineral dan garam yang menggumpal di ginjal dan dapat menyebabkan rasa sakit saat bergerak ke saluran kemih.\nTINDAKAN\n Minum banyak air untuk membantu mengeluarkan batu. Jika nyeri menjadi tidak tertahankan atau Anda mengalami mual dan muntah, segera cari bantuan medis."
+        },
+        "tidak": {
+          "q": "Apakah Anda pernah melakukan hubungan seksual tanpa perlindungan?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin terinfeksi penyakit menular seksual seperti klamidia atau gonore yang dapat menyebabkan peradangan pada uretra dan menyebabkan nyeri saat buang air kecil.\nTINDAKAN\n Hindari hubungan seksual sampai Anda diperiksa. Jika dinyatakan positif, Anda dan pasangan Anda mungkin perlu pengobatan. Konsultasikan dengan dokter untuk diagnosis dan pengobatan yang tepat.",
+          "tidak": {
+            "q": "Apakah Anda baru saja melahirkan atau menjalani operasi di area pelvis?",
+            "ya": {
+              "q": "Apakah Anda mengalami pendarahan atau keputihan yang tidak biasa setelah melahirkan atau operasi?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami infeksi pasca melahirkan atau pasca operasi yang disebabkan oleh bakteri yang masuk ke dalam rahim atau area pelvis selama atau setelah prosedur.\nTINDAKAN\n Pastikan area tersebut tetap bersih dan kering. Jika gejala berlanjut atau bertambah parah, konsultasikan dengan dokter Anda.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Trauma atau cedera di area pelvis pasca melahirkan atau operasi mungkin telah menyebabkan iritasi atau inflamasi di saluran kemih atau kandung kemih.\nTINDAKAN\n Istirahatlah dengan cukup, hindari aktivitas berat, dan gunakan kompres dingin untuk mengurangi pembengkakan atau nyeri. Jika gejala tidak membaik dalam beberapa hari, sebaiknya konsultasikan dengan dokter."
+            },
+            "tidak": {
+              "q": "Apakah Anda sedang menstruasi atau menjelang menstruasi?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Beberapa wanita mungkin merasa nyeri saat buang air kecil saat menstruasi karena peradangan atau pembengkakan saluran kemih yang disebabkan oleh perubahan hormonal.\nTINDAKAN\n Gunakan kompres hangat pada perut bagian bawah untuk mengurangi nyeri. Jika nyeri berlangsung lama atau sangat parah, konsultasikan dengan dokter.",
+              "tidak": {
+                "q": "Apakah Anda memiliki riwayat penyakit kandung kemih atau riwayat operasi pada kandung kemih?",
+                "ya": {
+                  "q": "Apakah Anda mengalami kesulitan atau keterlambatan saat buang air kecil?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami retensi urin, suatu kondisi di mana kandung kemih tidak dapat sepenuhnya mengosongkan, yang bisa disebabkan oleh obstruksi atau kerusakan saraf.\nTINDAKAN\n Cobalah buang air kecil dalam posisi yang berbeda atau dengan mengisi bak mandi dengan air hangat dan coba buang air kecil saat berendam. Jika masalah berlanjut, sebaiknya konsultasikan dengan dokter.",
+                  "tidak": "KEMUNGKINAN PENYEBAB\n Cedera atau operasi sebelumnya di kandung kemih mungkin telah mengubah fungsi kandung kemih Anda atau menyebabkan scar tissue yang menyebabkan nyeri saat buang air kecil.\nTINDAKAN\n Latihan kegel dapat membantu menguatkan otot panggul dan mengurangi gejala. Jika gejala berlanjut, konsultasikan dengan dokter."
+                },
+                "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+              }
+            }
+          }
+        }
+      }
+    },
+    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+  }
+}
