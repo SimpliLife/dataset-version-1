@@ -73,7 +73,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 
 ## 6. Gejala Jantung dan Paru-Paru
 18. Sesak nafas `92-sesak-nafas.json` ✅
-19. Nyeri dada  `93-nyeri-dada.json`
+19. Nyeri dada  `93-nyeri-dada.json` ✅
 
 ## 7. Gejala Di Sistem Reproduksi dan Sistem Kemih
 20. Nyeri buang air kecil `108-nyeri-buang-air-kecil.json` ✅
