@@ -1,0 +1,29 @@
+{
+  "gejala": "Gejala Di Otak Dan Sistem Saraf",
+  "judul": "Kedutan atau gemetar",
+  "pertanyaan": "Apakah gejalanya terbatas pada kedutan singkat di daerah sempit tubuh–pelupuk mata, misalnya?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Lelah atau ketegangan sering bisa menimbulkan kedutan ringan seperti ini, yang akan hilang sendiri. Bila berkepanjangan, atau bila membuat anda cemas, periksakan ke dokter.",
+    "tidak": {
+      "q": "Apakah anda di atas umur 55 dan apakah gemetarnya makin memburuk ketika bagian tubuh yang terkena sedang beristirahat?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Penyakit Parkinson (sebuah kelainan di pusat saraf di otak yang membantu mengontrol gerakan tubuh), mungkin jadi penyebabnya. Periksakan ke dokter. \nTINDAKAN\n Setelah diagnosanya pasti, dokter mungkin meminta anda memeriksakan diri setiap beberapa bulan untuk dipantau kondisinya. Pada kasus ringan, mungkin tidak diperlukan perawatan. Namun bila gejalanya semakin parah, dokter bisa meresepkan obat untuk membantu meredakannya.",
+      "tidak": {
+        "q": "Apakah anda baru berhenti atau mengurangi minum alkohol setelah menjadi peminum berat?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Penghentian seketika alkohol setelah mengkonsumsi tinggi secara berkepanjangan, bisa menimbulkan gemetar tak terkendali. Ini adalah pertanda bahwa anda sudah tergantung alkohol. \nTINDAKAN\n Dokter akan melakukan pemeriksaan darah untuk memeriksa apakah alkohol sudah merusak organ-organ dalam, misalnya hati. Dokter akan memberi saran cara mengontrol konsumsi alkohol di masa depan. Mungkin anda akan dirujuk ke kelompok swadaya anti-alkohol.",
+        "tidak": {
+          "q": "Apakah anda banyak minum teh, kopi, atau cola sebelum timbulnya kedutan atau gemetar itu?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Kebanyakan kafein bisa menyebabkan kedutan dan gemetar. \nTINDAKAN\n Jangan lagi minum teh, kopi, atau cola selama beberapa jam berikutnya, maka gejala itu akan hilang sendiri. Bila anda mengalami gejala ini secara berkala, kurangi asupan kafein. Bila gejalanya masih menetap, periksakan ke dokter.",
+          "tidak": {
+            "q": "Apakah anda sedang minum obat resep, atau baru berhenti memakai obat tidur atau penenang?",
+            "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Simtom ini mungkin efek samping dari obat resep tertentu, atau efek dari penghentian pemakaian obat tidur atau pun penenang. Konsultasikan ke dokter. Sementara itu, jangan hentikan pemakaian obat resepnya.",
+            "tidak": {
+              "q": "Apakah gemetarnya berkaitan dengan satu atau lebih gejala berikut? Berat badan turun tanpa sebab, merasa selalu waswas, berkeringat berlebihan, mata menonjol",
+              "ya": "KEMUNGKINAN PENYEBAB DAN TINDAKAN\n Hipertiroidisme (kelenjar tiroid terlalu aktif) mungkin penyebabnya. Konsultasikan ke dokter. Dokter akan mengambil contoh darah untuk mengukur tingkat hormon tiroid di dalamnya. Bila diagnosanya membenarkan, anda akan dirawat dengan obat tiroid atau iodin radioaktif, yang biasanya efektif seketika. Pada beberapa kasus, mungkin diperlukan pembedahan untuk mengangkat sebagian kelenjar tersebut.",
+              "tidak": "Periksakan ke dokter bila belum bisa terdiagnosa dari diagram ini."
+            }
+          }
+        }
+      }
+    }
+  }
+}
