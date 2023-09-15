@@ -1,0 +1,57 @@
+{
+  "gejala": "Gejala Di Mata dan Penglihatan",
+  "judul": "Mata Nyeri atau Perih",
+  "pertanyaan": "Apakah mata Anda merah?",
+  "q": {
+    "ya": {
+      "q": "Apakah Anda juga merasa seperti ada benda asing di mata?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami konjungtivitis, sebuah peradangan pada lapisan mata yang bisa disebabkan oleh infeksi, alergi, atau iritasi. Infeksi bisa disebabkan oleh virus atau bakteri, dan seringkali menyebar dengan mudah.\nTINDAKAN\n Hindari menyentuh mata Anda dan mencuci tangan dengan sering. Gunakan tetes mata saline untuk membersihkan mata. Jika gejala tidak membaik setelah beberapa hari, Anda mungkin memerlukan tetes mata antibiotik. Jika kondisi memburuk setelah tindakan tersebut, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+      "tidak": {
+        "q": "Apakah Anda baru saja terpapar oleh cahaya matahari langsung atau refleksi cahaya dari air atau salju?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami kerusakan mata akibat sinar UV, yang dikenal sebagai keratopati matahari. Ini adalah luka bakar pada mata yang disebabkan oleh paparan sinar ultraviolet.\nTINDAKAN\n Jika Anda merasa nyeri atau ketidaknyamanan, coba kompres mata dengan kain lembut yang telah dicelupkan ke dalam air dingin. Gunakan kacamata hitam dengan perlindungan UV untuk mencegah kerusakan lebih lanjut. Jika nyeri berlanjut atau memburuk setelah beberapa hari, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+        "tidak": {
+          "q": "Apakah Anda menggunakan lensa kontak?",
+          "ya": {
+            "q": "Apakah Anda sering mengenakan lensa kontak lebih lama dari yang dianjurkan atau bahkan tidur dengan lensa kontak?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami iritasi atau infeksi karena penggunaan lensa kontak yang berlebihan. Lensa kontak dapat menyebabkan iritasi jika digunakan terlalu lama atau tidak dirawat dengan baik.\nTINDAKAN\n Lepaskan lensa kontak Anda dan rendam dalam larutan pembersih selama beberapa jam. Gunakan tetes mata pelembab untuk mengurangi iritasi. Jika tidak ada perbaikan setelah beberapa hari, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+            "tidak": {
+              "q": "Apakah Anda merasa mata Anda menjadi lebih sensitif terhadap cahaya?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Sensitivitas yang meningkat terhadap cahaya dapat disebabkan oleh berbagai kondisi, termasuk radang pada bagian depan mata atau migrain.\nTINDAKAN\n Cobalah untuk menghindari cahaya yang menyilaukan dan gunakan kacamata hitam saat di luar ruangan. Jika gejala berlanjut atau disertai dengan gejala lain seperti sakit kepala parah, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Beberapa faktor lain mungkin berkontribusi pada ketidaknyamanan mata Anda, termasuk kelelahan, stres, atau faktor lingkungan.\nTINDAKAN\n Cobalah untuk istirahat, hindari paparan langsung ke layar komputer atau ponsel untuk sementara waktu, dan pastikan mata Anda terlindungi dari debu dan kotoran."
+            }
+          },
+          "tidak": {
+            "q": "Apakah Anda baru-baru ini menggunakan obat tetes mata atau produk lain untuk mata?",
+            "ya": {
+              "q": "Apakah Anda merasa reaksi alergi setelah penggunaan produk tersebut?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami reaksi alergi atau iritasi terhadap bahan dalam produk mata yang Anda gunakan.\nTINDAKAN\n Hentikan penggunaan produk tersebut dan bilas mata dengan air bersih. Gunakan tetes mata anti-alergi yang tersedia di apotek untuk mengurangi gejala. Jika gejala berlanjut atau memburuk setelah beberapa hari, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Beberapa bahan dalam produk mata mungkin tidak sesuai untuk semua orang, atau Anda mungkin memiliki reaksi terhadap bahan tertentu yang tidak Anda sadari sebelumnya.\nTINDAKAN\n Hentikan penggunaan produk dan bilas mata dengan air bersih. Gunakan tetes mata pelembab untuk mengurangi iritasi. Jika gejala berlanjut, Anda mungkin perlu konsultasi dengan dokter spesialis mata."
+            },
+            "tidak": {
+              "q": "Apakah mata Anda terasa kering dan gatal?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami sindrom mata kering, suatu kondisi di mana mata tidak memproduksi cukup air mata atau air mata menguap terlalu cepat. Hal ini bisa disebabkan oleh berbagai faktor seperti perubahan hormon, penggunaan obat tertentu, atau kerusakan kelenjar mata.\nTINDAKAN\n Cobalah tetes mata buatan atau gel mata untuk mengatasi mata kering. Jika kondisi tidak membaik setelah beberapa hari, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Beberapa faktor lain mungkin menyebabkan ketidaknyamanan mata Anda, termasuk pemaparan terhadap udara kering, paparan berkepanjangan ke layar komputer, atau alergi lingkungan.\nTINDAKAN\n Pastikan Anda berkedip secara teratur, hindari aliran udara langsung ke mata Anda seperti dari kipas angin atau AC, dan gunakan pelembab mata jika diperlukan."
+            }
+          }
+        }
+      }
+    },
+    "tidak": {
+      "q": "Apakah Anda merasakan nyeri tajam dan mendadak disertai dengan penglihatan kabur?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami serangan glaukoma akut, suatu kondisi di mana tekanan di dalam mata meningkat dengan cepat dan menyebabkan kerusakan saraf optik.\nTINDAKAN\n Ini adalah keadaan darurat medis. Gunakan obat tetes mata untuk mengurangi tekanan mata dan cobalah untuk tetap tenang. Jika gejala berlanjut atau memburuk dalam waktu singkat, segera periksakan diri Anda ke rumah sakit.",
+      "tidak": {
+        "q": "Apakah Anda baru saja mengalami trauma atau cedera di mata?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami luka atau iritasi akibat trauma pada mata. Cedera bisa disebabkan oleh benda asing, gesekan, atau benturan langsung ke mata.\nTINDAKAN\n Hindari menyentuh atau menggosok mata Anda. Jika ada benda asing, coba bilas mata dengan air bersih. Jika nyeri berlanjut atau memburuk setelah beberapa jam, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+        "tidak": {
+          "q": "Apakah Anda merasa ada tekanan di dalam mata Anda?",
+          "ya": {
+            "q": "Apakah tekanan tersebut disertai dengan sakit kepala?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami gejala awal glaukoma, kondisi di mana tekanan di dalam mata meningkat dan dapat menyebabkan kerusakan pada saraf optik.\nTINDAKAN\n Cobalah untuk istirahat sejenak dan hindari aktivitas yang membebani mata Anda. Gunakan obat tetes mata yang dapat mengurangi tekanan di dalam mata. Jika gejala berlanjut atau memburuk setelah beberapa hari, Anda mungkin perlu konsultasi dengan dokter spesialis mata.",
+            "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin merasa tekanan di mata karena berbagai alasan yang kurang jelas, termasuk kelelahan atau stres.\nTINDAKAN\n Coba istirahatkan mata Anda dan hindari paparan layar untuk sementara waktu. Pastikan Anda beristirahat cukup dan tetap terhidrasi. Jika gejala berlanjut atau memburuk setelah beberapa hari, Anda mungkin perlu konsultasi dengan dokter."
+          },
+          "tidak": "KEMUNGKINAN PENYEBAB\n Beberapa kondisi mata dapat mempengaruhi kenyamanan Anda tanpa gejala yang jelas. Faktor-faktor seperti kelelahan, dehidrasi, atau ketidakseimbangan hormon mungkin berkontribusi.\nTINDAKAN\n Cobalah untuk istirahat, minum cukup air, dan hindari paparan langsung ke layar komputer atau ponsel untuk sementara waktu. Jika gejala berlanjut, pertimbangkan untuk melakukan pemeriksaan mata rutin."
+        }
+      }
+    }
+  }
+}
