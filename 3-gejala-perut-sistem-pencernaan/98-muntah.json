@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Di Perut dan Sistem Pencernaan",
+  "judul": "Muntah",
+  "pertanyaan": "Apakah muntah disertai darah atau material yang tampak seperti bubuk kopi?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n Muntah darah dapat disebabkan oleh berbagai kondisi, termasuk pendarahan dari luka di esofagus atau lambung, tukak lambung, atau varises esofagus. Muntah darah dapat menandakan pendarahan internal yang serius dan memerlukan perawatan medis segera. \nTINDAKAN\n Anda harus segera mencari bantuan medis. Di rumah sakit, dokter mungkin akan melakukan endoskopi untuk menemukan sumber pendarahan dan menentukan langkah selanjutnya.",
+    "tidak": {
+      "q": "Apakah muntah terjadi setelah Anda mengonsumsi makanan yang dicurigai?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Mungkin Anda mengalami keracunan makanan. Bakteri, virus, atau parasit dalam makanan yang terkontaminasi bisa menyebabkan muntah serta gejala lain seperti diare. \nTINDAKAN\n Istirahatlah, minum banyak cairan untuk menghindari dehidrasi. Jika gejala memburuk atau tidak membaik dalam 24 jam, segera periksakan ke dokter. Dokter mungkin akan memberikan obat anti muntah atau antibiotik jika diperlukan.",
+      "tidak": {
+        "q": "Apakah Anda baru saja mengalami cedera kepala?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Muntah dapat menjadi tanda cedera kepala yang serius, seperti gegar otak. \nTINDAKAN\n Anda harus segera mencari perawatan medis. Di rumah sakit, dokter mungkin akan merekomendasikan pemindaian CT atau MRI untuk menilai tingkat keparahan cedera.",
+        "tidak": {
+          "q": "Apakah Anda merasa pusing sebelum muntah?",
+          "ya": {
+            "q": "Apakah Anda juga mengalami gangguan pendengaran?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami vertigo, yang bisa disebabkan oleh masalah dalam telinga bagian dalam. \nTINDAKAN\n Periksakanlah ke dokter. Dokter mungkin akan merujuk Anda ke seorang spesialis THT dan memberikan obat untuk mengatasi pusing dan muntah.",
+            "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami jenis vertigo yang tidak terkait dengan gangguan pendengaran. Ada berbagai penyebab vertigo dan tindakan yang tepat bergantung pada penyebabnya. \nTINDAKAN\n Periksakanlah ke dokter untuk evaluasi lebih lanjut."
+          },
+          "tidak": {
+            "q": "Apakah Anda sedang hamil dan mengalami mual serta muntah di pagi hari?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami mual dan muntah kehamilan, yang umum terjadi pada trimester pertama kehamilan. \nTINDAKAN\n Konsultasikan dengan dokter kandungan Anda. Dokter mungkin akan memberi saran tentang diet dan gaya hidup atau meresepkan obat untuk mengatasi mual dan muntah.",
+            "tidak": {
+              "q": "Apakah Anda baru saja mengonsumsi obat baru atau mengubah dosis obat yang Anda konsumsi?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Beberapa obat dapat menyebabkan muntah sebagai efek samping. \nTINDAKAN\n Hentikan penggunaan obat dan konsultasikan dengan dokter Anda. Jangan memulai kembali obat tanpa anjuran dokter. Dokter mungkin akan menyesuaikan dosis atau mengganti obat Anda.",
+              "tidak": {
+                "q": "Apakah muntah disertai dengan sakit perut yang hebat?",
+                "ya": {
+                  "q": "Apakah sakit perut tersebut terlokalisasi di satu area, misalnya bagian kanan bawah perut?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami radang usus buntu, yang memerlukan perawatan medis segera. \nTINDAKAN\n Anda harus segera mencari bantuan medis. Di rumah sakit, dokter mungkin akan merekomendasikan pembedahan untuk mengangkat usus buntu.",
+                  "tidak": "KEMUNGKINAN PENYEBAB\n Ada berbagai kondisi yang bisa menyebabkan muntah dan sakit perut, termasuk infeksi gastrointestinal, batu ginjal, atau masalah lain. \nTINDAKAN\n Anda harus periksakan diri ke dokter untuk mendapatkan diagnosis yang tepat."
+                },
+                "tidak": {
+                  "q": "Apakah Anda mengalami demam atau menggigil bersamaan dengan muntah?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami infeksi seperti gastroenteritis atau infeksi lainnya yang mempengaruhi perut dan usus. \nTINDAKAN\n Minum banyak cairan dan periksakan ke dokter. Dokter mungkin akan memberikan antibiotik jika diperlukan.",
+                  "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
