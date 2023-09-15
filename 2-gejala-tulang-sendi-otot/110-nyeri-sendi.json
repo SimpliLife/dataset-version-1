@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Di Tulang, Sendi dan Otot",
+  "judul": "Nyeri Sendi",
+  "pertanyaan": "Apakah nyeri sendi Anda disertai dengan pembengkakan?",
+  "q": {
+    "ya": {
+      "q": "Apakah Anda baru-baru ini mengalami cedera pada sendi?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Cedera pada sendi mungkin penyebabnya.\nTINDAKAN\n Kompres dengan es dan istirahatkan sendi yang sakit. Jika tidak ada perbaikan, periksakan ke dokter. Anda mungkin perlu sinar-X atau terapi fisik.",
+      "tidak": {
+        "q": "Apakah nyeri sendi Anda disertai dengan demam?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin gejala dari artritis infeksi atau kondisi inflamasi lainnya.\nTINDAKAN\n Anda mungkin memerlukan antibiotik atau obat anti-inflamasi. Dokter spesialis sendi (Rheumatologist) akan mengevaluasi kondisi Anda lebih lanjut.",
+        "tidak": {
+          "q": "Apakah Anda merasa kelelahan atau memiliki nafsu makan yang berkurang?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Bisa jadi ini adalah tanda-tanda awal dari kondisi autoimun atau peradangan.\nTINDAKAN\n Konsultasi dengan dokter untuk tes darah dan evaluasi lebih lanjut.",
+          "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+        }
+      }
+    },
+    "tidak": {
+      "q": "Apakah nyeri sendi Anda hanya terasa di pagi hari?",
+      "ya": {
+        "q": "Apakah kekakuan ini berlangsung lebih dari satu jam?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Ini bisa menunjukkan artritis reumatoid atau kondisi inflamasi lainnya.\nTINDAKAN\n Konsultasi dengan dokter reumatologi. Anda mungkin akan mendapatkan obat anti-inflamasi dan terapi lainnya.",
+        "tidak": "KEMUNGKINAN PENYEBAB\n Ini mungkin osteoartritis ringan.\nTINDAKAN\n Olahraga ringan dan kompres hangat dapat membantu. Jika kondisi memburuk, konsultasi dengan dokter."
+      },
+      "tidak": {
+        "q": "Apakah Anda merasakan nyeri di lebih dari satu sendi?",
+        "ya": {
+          "q": "Apakah Anda memiliki riwayat penyakit kulit seperti psoriasis?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin memiliki psoriatic arthritis.\nTINDAKAN\n Konsultasi dengan dokter reumatologi. Terapi khusus mungkin diperlukan.",
+          "tidak": {
+            "q": "Apakah Anda merasa gatal atau ruam di kulit?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin kondisi yang terkait dengan sistem imun atau alergi.\nTINDAKAN\n Gunakan krim anti-gatal. Jika tidak membaik, konsultasi dengan dokter.",
+            "tidak": {
+              "q": "Apakah Anda pernah mengalami nyeri sendi sebelumnya tanpa sebab yang jelas?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin gejala dari kondisi kronis atau genetik.\nTINDAKAN\n Rutin memeriksa ke dokter dan menjalani tes jika diperlukan.",
+              "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+            }
+          }
+        },
+        "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+      }
+    }
+  }
+}
