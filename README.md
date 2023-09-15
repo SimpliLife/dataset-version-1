@@ -91,8 +91,8 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 26. Kedutan dan/atau gemetar `68-kedutan-dan-atau-gemetar.json`(WIP)
 
 ## 11. Gejala Di Kulit
-27. Gatal-gatal `18-gatal-gatal.json`(WIP)
-28. Masalah kulit di wajah `78-masalah-kulit-di-wajah.json`
+27. Gatal-gatal `18-gatal-gatal.json` ✅
+28. Masalah kulit di wajah `78-masalah-kulit-di-wajah.json` ✅
 
 ## 12. Gejala Dalam Kehamilan dan Persalinan
 29. Mual dan muntah dalam kehamilan `141-mual-dan-muntah-dalam-kehamilan.json` ✅
