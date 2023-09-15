@@ -1,0 +1,45 @@
+{
+    "gejala": "Gejala Di Pernapasan",
+    "judul": "Sesak Nafas",
+    "pertanyaan": "Apakah sesak nafas Anda terjadi mendadak tanpa sebab yang jelas?",
+    "q": {
+      "ya": {
+        "q": "Apakah Anda baru-baru ini melakukan aktivitas fisik yang berat atau mengalami trauma dada?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Trauma atau cedera pada dada mungkin penyebabnya.\nTINDAKAN\n Dokter akan memeriksa kondisi dada Anda dan mungkin menyarankan pemeriksaan sinar-X. Anda mungkin akan diberi obat anti inflamasi untuk meredakan nyeri dan peradangan.",
+        "tidak": {
+          "q": "Apakah Anda juga merasa nyeri dada?",
+          "ya": {
+            "q": "Apakah Anda memiliki riwayat penyakit jantung atau paru-paru?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Masalah kardiovaskular atau paru-paru mungkin penyebabnya.\nTINDAKAN\n Dokter akan memeriksa Anda dan mungkin akan melakukan tes EKG atau pemeriksaan lain. Anda mungkin dirujuk ke spesialis jantung atau paru-paru dan diberikan obat yang sesuai.",
+            "tidak": "KEMUNGKINAN PENYEBAB\n Kondisi lain seperti asma atau gangguan pernapasan lainnya.\nTINDAKAN\n Dokter akan menilai gejala Anda dan mungkin menyarankan spirometri atau tes lain. Pengobatan seperti inhaler mungkin disarankan."
+          },
+          "tidak": {
+            "q": "Apakah Anda sering terpapar asap atau polutan?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Paparan polutan mungkin menyebabkan peradangan pada saluran pernapasan.\nTINDAKAN\n Hindari paparan dan gunakan masker. Dokter mungkin akan menyarankan obat untuk meredakan gejala.",
+            "tidak": {
+              "q": "Apakah sesak nafas Anda disertai dengan batuk dan dahak?",
+              "ya": {
+                "q": "Apakah Anda pernah merokok atau memiliki riwayat merokok?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Kemungkinan penyakit paru obstruktif kronis (PPOK) atau kondisi paru-paru lainnya.\nTINDAKAN\n Dokter mungkin akan menyarankan tes fungsi paru dan meresepkan inhaler atau obat lain untuk meningkatkan pernapasan.",
+                "tidak": "KEMUNGKINAN PENYEBAB\n Infeksi saluran pernapasan atas mungkin penyebabnya.\nTINDAKAN\n Dokter mungkin akan menyarankan obat batuk atau antibiotik jika disebabkan oleh bakteri."
+              },
+              "tidak": {
+                "q": "Apakah Anda merasa lelah secara keseluruhan dan sesak nafas terjadi saat beraktivitas?",
+                "ya": {
+                  "q": "Apakah Anda memiliki riwayat penyakit seperti diabetes atau hipertensi?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Komplikasi dari penyakit-penyakit tersebut bisa menyebabkan sesak nafas.\nTINDAKAN\n Konsultasikan dengan dokter Anda untuk menyesuaikan pengobatan dan rekomendasi lanjutan.",
+                  "tidak": {
+                    "q": "Apakah Anda mengalami penurunan berat badan tanpa sebab yang jelas?",
+                    "ya": "KEMUNGKINAN PENYEBAB\n Bisa jadi ada gangguan kesehatan lain yang menyebabkan sesak nafas dan penurunan berat badan.\nTINDAKAN\n Dokter akan memeriksa kondisi Anda lebih lanjut dan mungkin menyarankan beberapa tes laboratorium.",
+                    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                  }
+                },
+                "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
