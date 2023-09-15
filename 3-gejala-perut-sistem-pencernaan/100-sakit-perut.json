@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Di Perut dan Sistem Pencernaan",
+  "judul": "Sakit Perut",
+  "pertanyaan": "Apakah rasa sakit Anda tajam dan terletak di sisi kanan bawah perut Anda?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami radang usus buntu. \nTINDAKAN\n Jangan konsumsi makanan atau minuman dan segera cari pertolongan medis. Hindari pemberian obat penghilang rasa sakit karena ini dapat menyamarkan gejala.",
+    "tidak": {
+      "q": "Apakah sakit perut Anda disertai dengan mual dan muntah?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami gastroenteritis. \nTINDAKAN\n Minum cairan elektrolit untuk tetap terhidrasi. Hindari makanan berat dan berlemak. Jika mual berlanjut, Anda bisa mencoba antasida. Jika gejala bertambah parah, konsultasikan dengan dokter.",
+      "tidak": {
+        "q": "Apakah Anda merasa kembung dan mengalami sembelit atau diare?",
+        "ya": {
+          "q": "Apakah Anda juga merasa lelah sepanjang waktu?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin memiliki kondisi seperti anemia atau masalah tiroid yang menyebabkan IBS. \nTINDAKAN\n Pertimbangkan untuk mengonsumsi suplemen zat besi untuk anemia. Jika gejala bertambah parah atau tidak membaik, konsultasikan dengan dokter.",
+          "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami sindrom iritasi usus (IBS). \nTINDAKAN\n Coba probiotik atau serat tambahan untuk membantu. Hindari makanan pemicu. Jika gejala bertambah parah, konsultasikan dengan dokter."
+        },
+        "tidak": {
+          "q": "Apakah Anda mengalami nyeri saat buang air kecil?",
+          "ya": {
+            "q": "Apakah Anda juga merasa perih saat buang air besar?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin menandakan infeksi yang lebih serius di saluran kemih atau area genital. \nTINDAKAN\n Mandi air hangat dan hindari produk beraroma untuk area genital. Jika gejala bertambah parah atau tidak membaik dalam 48 jam, konsultasikan dengan dokter.",
+            "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami infeksi saluran kemih (ISK). \nTINDAKAN\n Minum banyak cairan, hindari minuman berkafein, dan pertimbangkan untuk mengonsumsi cranberry sebagai obat alami. Jika gejala bertambah parah atau tidak membaik dalam 48 jam, konsultasikan dengan dokter."
+          },
+          "tidak": {
+            "q": "Apakah Anda mengalami perubahan berat badan tanpa sebab yang jelas?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Perubahan berat badan yang signifikan tanpa alasan yang jelas bisa menjadi tanda dari berbagai kondisi. \nTINDAKAN\n Pertahankan jurnal makanan untuk memonitor asupan dan berat badan Anda. Jika perubahan berlanjut atau disertai gejala lain, konsultasikan dengan dokter.",
+            "tidak": {
+              "q": "Apakah Anda pernah mengalami sakit perut setelah makan makanan tertentu?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin memiliki intoleransi makanan atau alergi. \nTINDAKAN\n Cobalah untuk mencatat makanan yang Anda konsumsi dan gejala yang Anda alami. Pertimbangkan untuk melakukan tes intoleransi makanan. Jika gejala berlanjut, konsultasikan dengan dokter.",
+              "tidak": {
+                "q": "Apakah sakit perut Anda datang dan pergi dengan intensitas yang kuat?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin menandakan batu empedu atau batu ginjal. \nTINDAKAN\n Cobalah kompres hangat untuk meredakan nyeri. Hindari makanan berlemak dan minum banyak air. Jika rasa sakit intens atau berlanjut, konsultasikan dengan dokter.",
+                "tidak": {
+                  "q": "Apakah Anda mengalami sakit perut yang menjalar ke punggung?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin menandakan masalah pada pankreas atau batu empedu. \nTINDAKAN\n Jika rasa sakitnya parah atau disertai demam, mual, atau muntah, segera cari pertolongan medis. Jika gejala lebih ringan, tetap konsultasikan dengan dokter untuk pemeriksaan lebih lanjut.",
+                  "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
