@@ -76,7 +76,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 19. Nyeri dada  `93-nyeri-dada.json`
 
 ## 7. Gejala Di Sistem Reproduksi dan Sistem Kemih
-20. Nyeri buang air kecil `108-nyeri-buang-air-kecil.json`
+20. Nyeri buang air kecil `108-nyeri-buang-air-kecil.json` ✅
 
 ## 8. Gejala Di Mata dan Penglihatan
 21. Mata nyeri atau perih `82-mata-nyeri-atau-perih.json` ✅
