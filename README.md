@@ -80,7 +80,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 
 ## 8. Gejala Di Mata dan Penglihatan
 21. Mata nyeri atau perih `82-mata-nyeri-atau-perih.json` ✅
-22. Penglihatan terganggu atau rusak `83-penglihatan-terganggu-atau-rusak.json`
+22. Penglihatan terganggu atau rusak `83-penglihatan-terganggu-atau-rusak.json` ✅
 
 ## 9. Gejala Berat Badan dan Pertumbuhan
 23. Berat badan turun `58-berat-badan-turun.json` ✅
