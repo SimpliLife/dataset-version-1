@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Umum (Seluruh Tubuh)",
+  "judul": "Sakit Kepala",
+  "pertanyaan": "Apakah sakit kepala Anda datang tiba-tiba dan sangat parah?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\nSakit kepala mendadak yang parah bisa disebabkan oleh pendarahan subaraknoid akibat pecahnya pembuluh darah otak.\nTINDAKAN\nTetap tenang dan hindari aktivitas fisik. Jangan mengonsumsi aspirin karena bisa meningkatkan risiko pendarahan. Jika gejala berlanjut, segera cari bantuan medis.",
+    "tidak": {
+      "q": "Apakah Anda mengalami gangguan penglihatan, mual, atau muntah?",
+      "ya": "KEMUNGKINAN PENYEBAB\nMigrain seringkali disertai gejala lain seperti gangguan penglihatan, mual, atau muntah, dan bisa dipicu oleh berbagai faktor.\nTINDAKAN\nCoba minum obat anti-inflamasi nonsteroid seperti ibuprofen. Istirahat di ruangan yang gelap dan tenang. Kompres dingin di dahi juga bisa membantu meredakan sakit kepala migrain.",
+      "tidak": {
+        "q": "Apakah sakit kepala Anda terasa seperti ikatan yang menekan di sekitar kepala Anda?",
+        "ya": "KEMUNGKINAN PENYEBAB\nSakit kepala jenis ini biasanya disebabkan oleh otot yang tegang atau stres, dikenal sebagai sakit kepala tegangan.\nTINDAKAN\nPeregangan ringan, pijat, atau kompres hangat dapat membantu meredakan ketegangan otot. Pertimbangkan minum obat pereda nyeri seperti parasetamol dengan rekomendasi dosis yang sesuai.",
+        "tidak": {
+          "q": "Apakah Anda baru saja mengalami cedera kepala?",
+          "ya": "KEMUNGKINAN PENYEBAB\nCedera kepala bisa menyebabkan inflamasi di otak yang mengakibatkan sakit kepala pasca-trauma.\nTINDAKAN\nAplikasikan es batu di area yang cedera untuk mengurangi pembengkakan. Jika sakit kepala bertambah parah atau Anda merasa bingung, mungkin ada komplikasi yang lebih serius dan Anda harus mencari bantuan medis.",
+          "tidak": {
+            "q": "Apakah Anda sering merasa tegang atau stres?",
+            "ya": "KEMUNGKINAN PENYEBAB\nStres kronis atau tekanan emosional bisa memicu sakit kepala tegangan karena otot kepala dan leher menjadi tegang.\nTINDAKAN\nCoba teknik relaksasi seperti meditasi dan latihan pernapasan dalam. Aktivitas fisik ringan seperti berjalan kaki juga bisa membantu.",
+            "tidak": {
+              "q": "Apakah Anda mengalami perubahan penglihatan, rasa sakit saat mengunyah, atau rasa sakit di arteri di sisi kepala?",
+              "ya": "KEMUNGKINAN PENYEBAB\nArteritis temporal adalah peradangan pada arteri di kepala, yang bisa menyebabkan sakit kepala serta gejala lainnya.\nTINDAKAN\nHindari mengonsumsi alkohol dan tembakau. Pertimbangkan untuk mengonsumsi aspirin dengan dosis rendah setelah berkonsultasi dengan dokter. Jika gejala berlanjut atau memburuk, cari bantuan medis.",
+              "tidak": {
+                "q": "Apakah sakit kepala Anda disertai dengan demam atau leher yang kaku?",
+                "ya": {
+                  "q": "Apakah demam Anda sangat tinggi dan disertai muntah?",
+                  "ya": "KEMUNGKINAN PENYEBAB\nSakit kepala yang disertai demam tinggi, leher kaku, dan muntah bisa menunjukkan adanya meningitis, peradangan pada selaput otak.\nTINDAKAN\nIni adalah keadaan darurat. Hindari cahaya terang dan bunyi keras. Tetap rehidrasi dengan minum air putih, namun jika gejala berlanjut atau memburuk, segera cari bantuan medis.",
+                  "tidak": "KEMUNGKINAN PENYEBAB\nKombinasi dari sakit kepala, demam, dan leher kaku bisa menandakan adanya infeksi lain atau kondisi inflamasi di otak atau area sekitarnya.\nTINDAKAN\nPertahankan istirahat dan konsumsi banyak cairan. Jika gejala berlanjut atau memburuk, cari bantuan medis."
+                },
+                "tidak": {
+                  "q": "Apakah Anda mengalami sakit kepala setelah beraktivitas fisik yang intens?",
+                  "ya": "KEMUNGKINAN PENYEBAB\nSakit kepala setelah aktivitas fisik intens bisa terjadi karena fluktuasi tekanan darah atau perubahan aliran darah ke otak.\nTINDAKAN\nDuduk dan istirahat di tempat yang sejuk. Minum air putih untuk tetap terhidrasi. Jika gejala berlanjut atau memburuk, cari bantuan medis.",
+                  "tidak": {
+                    "q": "Apakah Anda mengalami sensitivitas terhadap cahaya atau suara saat sakit kepala?",
+                    "ya": "KEMUNGKINAN PENYEBAB\nSensitivitas terhadap cahaya atau suara sering kali dikaitkan dengan migrain atau sakit kepala jenis lain yang berhubungan dengan gangguan sensorik.\nTINDAKAN\nMencari lingkungan yang gelap dan tenang. Minum obat pereda nyeri seperti ibuprofen untuk meredakan rasa sakit dan peradangan. Jika gejala berlanjut atau memburuk, cari bantuan medis.",
+                    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
