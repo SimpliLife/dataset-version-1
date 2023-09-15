@@ -1,0 +1,44 @@
+{
+    "gejala": "Gejala Di Kulit",
+    "judul": "Masalah Kulit di Wajah",
+    "pertanyaan": "Apakah wajah Anda berjerawat?",
+    "q": {
+      "ya": {
+        "q": "Apakah jerawat Anda berisi nanah atau meradang?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Jerawat yang berisi nanah atau meradang mungkin disebabkan oleh infeksi bakteri. Ini mungkin juga berkaitan dengan perubahan hormonal atau diet tertentu.\nTINDAKAN\n Dokter mungkin akan meresepkan antibiotik topikal atau oral. Jika kondisi memburuk, Anda mungkin perlu dirujuk ke dermatologis.",
+        "tidak": {
+          "q": "Apakah Anda menggunakan produk perawatan wajah baru-baru ini?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Reaksi alergi atau iritasi dari produk perawatan wajah bisa menyebabkan jerawat atau ruam.\nTINDAKAN\n Hentikan penggunaan produk tersebut dan konsultasikan ke dokter. Anda mungkin diberi krim anti-inflamasi untuk mengurangi kemerahan dan iritasi."
+        }
+      },
+      "tidak": {
+        "q": "Apakah Anda memiliki bintik-bintik coklat atau hitam pada kulit wajah?",
+        "ya": {
+          "q": "Apakah bintik-bintik tersebut muncul setelah paparan sinar matahari?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Bintik-bintik yang muncul setelah paparan sinar matahari bisa jadi adalah lentigo atau hiperpigmentasi.\nTINDAKAN\n Penggunaan tabir surya adalah penting. Dokter mungkin akan meresepkan krim pemutih atau perawatan lain untuk memudarkan bintik-bintik.",
+          "tidak": {
+            "q": "Apakah bintik-bintik tersebut berubah ukuran atau warna?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Perubahan pada bintik bisa menandakan masalah serius seperti melanoma atau jenis kanker kulit lainnya.\nTINDAKAN\n Segera konsultasikan ke dokter. Anda mungkin akan dirujuk ke dermatologis untuk pemeriksaan lebih lanjut."
+          }
+        },
+        "tidak": {
+          "q": "Apakah kulit wajah Anda kering dan bersisik?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Kulit kering dan bersisik bisa disebabkan oleh faktor lingkungan, seperti cuaca dingin atau produk perawatan kulit yang tidak sesuai.\nTINDAKAN\n Gunakan pelembab yang sesuai dan hindari sabun yang keras. Konsultasi ke dokter untuk saran lebih lanjut.",
+          "tidak": {
+            "q": "Apakah Anda memiliki bintik-bintik merah atau ruam pada wajah?",
+            "ya": {
+              "q": "Apakah ruam tersebut disertai gatal?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Ruam yang gatal bisa disebabkan oleh alergi, eksim, atau kondisi kulit lainnya.\nTINDAKAN\n Dokter mungkin akan meresepkan krim atau salep untuk mengurangi gatal dan peradangan.",
+              "tidak": "KEMUNGKINAN PENYEBAB\n Ruam tanpa gatal bisa disebabkan oleh berbagai kondisi, seperti rosacea atau reaksi terhadap produk kulit.\nTINDAKAN\n Konsultasikan ke dokter untuk mendapatkan diagnosis yang tepat."
+            },
+            "tidak": {
+              "q": "Apakah kulit Anda tampak kusam dan kehilangan kekenyalannya?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Kusamnya kulit dan hilangnya kekenyalan mungkin tanda-tanda dari penuaan kulit atau kerusakan akibat paparan sinar matahari.\nTINDAKAN\n Penggunaan produk anti-penuaan dan perlindungan dari sinar matahari mungkin dianjurkan. Konsultasikan ke dokter untuk saran lebih lanjut.",
+              "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+            }
+          }
+        }
+      }
+    }
+  }
+  
