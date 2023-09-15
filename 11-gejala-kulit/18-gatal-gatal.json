@@ -1,0 +1,57 @@
+{
+  "gejala": "Gejala Di Kulit",
+  "judul": "Gatal-Gatal",
+  "pertanyaan": "Apakah Anda baru saja menggunakan produk kosmetik atau sabun baru?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami reaksi alergi atau iritasi karena bahan kimia dalam produk tersebut. Zat-zat dalam produk kosmetik atau sabun bisa menyebabkan kulit menjadi sensitif dan meradang.\nTINDAKAN\n Hentikan penggunaan produk tersebut dan cuci area yang terkena dengan air bersih. Aplikasikan kompres dingin untuk meredakan peradangan. Gunakan krim hidrokortison yang dijual bebas untuk mengurangi peradangan dan gatal. Jika gejala berlanjut, pertimbangkan penggunaan losion kalamin untuk meredakan rasa gatal.",
+    "tidak": {
+      "q": "Apakah gatal-gatal Anda disertai dengan bentol merah atau bintik-bintik?",
+      "ya": {
+        "q": "Apakah bentol tersebut berisi cairan atau nanah?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Bentol berisi cairan atau nanah bisa menandakan infeksi bakteri di kulit.\nTINDAKAN\n Hindari memencet bentol tersebut. Bersihkan area dengan antiseptik ringan dan gunakan salep antibiotik yang dijual bebas. Tetap menjaga area tersebut agar tetap kering. Jika bentol semakin membesar atau menyebar, pertimbangkan untuk mengaplikasikan kompres hangat untuk mengurangi pembengkakan.",
+        "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami urtikaria atau biduran, suatu reaksi alergi yang terjadi karena paparan alergen tertentu seperti makanan, gigitan serangga, atau obat-obatan.\nTINDAKAN\n Hindari pemicu yang diduga menyebabkan reaksi. Anda bisa mencoba mandi air dingin atau menggunakan kompres dingin untuk meredakan gatal. Pertimbangkan penggunaan losion atau gel yang mengandung aloe vera atau chamomile untuk meredakan iritasi."
+      },
+      "tidak": {
+        "q": "Apakah Anda baru saja berada di alam terbuka atau berkontak dengan tanaman atau hewan?",
+        "ya": {
+          "q": "Apakah Anda merasa gatal setelah kontak dengan tanaman tertentu?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin terkena racun tumbuhan seperti poison ivy atau poison oak yang menyebabkan reaksi kulit.\nTINDAKAN\n Segera cuci area yang terkena dengan air mengalir untuk menghilangkan racun. Hindari menggosok area tersebut. Aplikasikan kompres dingin atau losion kalamin untuk mengurangi gatal dan iritasi. Jika terjadi pembengkakan, Anda dapat mengonsumsi antihistamin oral yang dijual bebas.",
+          "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin terkena gigitan atau sengatan dari hewan atau serangga yang menyebabkan reaksi kulit.\nTINDAKAN\n Bersihkan area yang gatal dengan air dan sabun ringan. Untuk mengurangi pembengkakan dan rasa sakit dari gigitan atau sengatan, aplikasikan es atau kompres dingin. Pertimbangkan penggunaan salep yang mengandung lidocaine atau benzokain untuk mengurangi rasa sakit."
+        },
+        "tidak": {
+          "q": "Apakah Anda memiliki riwayat penyakit kulit seperti eksim atau psoriasis?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Kambuhnya kondisi kulit Anda mungkin adalah penyebab gatal. Eksim dan psoriasis adalah kondisi kronis yang bisa menyebabkan kulit kering, meradang, dan gatal.\nTINDAKAN\n Lanjutkan perawatan yang biasa Anda lakukan untuk kondisi kulit Anda. Aplikasikan pelembab secara rutin, terutama setelah mandi. Jika Anda memiliki krim steroid yang diberikan oleh dokter, gunakan sesuai instruksi. Hindari pemicu seperti sabun keras atau bahan kimia lainnya yang mungkin memperburuk kondisi Anda.",
+          "tidak": {
+            "q": "Apakah Anda mengalami stres atau kecemasan yang meningkat baru-baru ini?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Gatal-gatal bisa disebabkan oleh stres atau kecemasan. Respon tubuh terhadap stres bisa mempengaruhi kulit dan menyebabkan rasa gatal.\nTINDAKAN\n Coba teknik relaksasi seperti meditasi, pernapasan dalam, atau yoga untuk mengurangi stres. Mandi air hangat dengan tambahan oatmeal koloid bisa membantu meredakan gatal. Pertimbangkan penggunaan losion atau krim yang mengandung mentol atau kamper untuk efek mendinginkan pada kulit.",
+            "tidak": {
+              "q": "Apakah area yang gatal tampak kering atau bersisik?",
+              "ya": {
+                "q": "Apakah Anda sering berada di ruangan dengan udara kering?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Udara kering dari pemanas atau AC bisa menyebabkan kulit menjadi kering dan gatal.\nTINDAKAN\n Gunakan pelembab bebas parfum secara rutin. Pertimbangkan penggunaan pelembap udara di rumah. Mandi dengan air hangat, bukan panas, dan gunakan sabun yang lembut. Jika gejala tidak membaik dalam beberapa hari, konsultasikan dengan dokter spesialis kulit untuk saran lebih lanjut.",
+                "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami kondisi kulit kering atau xerosis.\nTINDAKAN\n Gunakan pelembab bebas parfum secara rutin dan hindari mandi dengan air panas. Jika gejala tidak membaik, konsultasikan dengan dokter spesialis kulit untuk saran lebih lanjut."
+              },
+              "tidak": {
+                "q": "Apakah Anda baru-baru ini mengalami demam atau gejala lainnya selain gatal?",
+                "ya": "KEMUNGKINAN PENYEBAB\n Gatal bersamaan dengan demam bisa menandakan adanya infeksi atau kondisi medis lainnya yang mempengaruhi tubuh Anda.\nTINDAKAN\n Istirahatlah yang cukup, konsumsi banyak cairan, dan pertimbangkan penggunaan obat demam yang dijual bebas. Jika demam tinggi atau berlangsung lebih dari 3 hari, atau jika Anda memiliki gejala lain seperti nyeri otot atau lemas, sebaiknya konsultasi dengan dokter.",
+                "tidak": {
+                  "q": "Apakah gatal lebih parah pada malam hari?",
+                  "ya": {
+                    "q": "Apakah Anda melihat adanya tanda garis-garis kecil merah di kulit Anda?",
+                    "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin terkena skabies, infeksi parasit yang menyebabkan gatal yang sangat, terutama pada malam hari.\nTINDAKAN\n Hindari kontak langsung dengan orang lain untuk mencegah penyebaran. Cuci pakaian dan seprai dengan air panas. Anda mungkin perlu menggunakan salep atau krim yang mengandung permetrin atau ivermectin, yang bisa diperoleh dengan resep dari dokter.",
+                    "tidak": "KEMUNGKINAN PENYEBAB\n Beberapa kondisi kulit atau alergi dapat memburuk pada malam hari, tetapi penyebab pastinya memerlukan pemeriksaan lebih lanjut.\nTINDAKAN\n Coba mandi dengan air hangat sebelum tidur dan gunakan pelembab yang mengandung ceramide atau asam hialuronik untuk memelihara kelembaban kulit. Gunakan pakaian katun yang longgar saat tidur untuk menghindari iritasi tambahan."
+                  },
+                  "tidak": {
+                    "q": "Apakah Anda memiliki riwayat alergi makanan?",
+                    "ya": "KEMUNGKINAN PENYEBAB\n Alergi makanan bisa menyebabkan berbagai reaksi, termasuk gatal-gatal pada kulit.\nTINDAKAN\n Hindari makanan yang dicurigai sebagai penyebab alergi Anda. Anda bisa mencoba antihistamin oral yang dijual bebas untuk mengurangi gejala. Jika Anda memiliki reaksi alergi parah seperti kesulitan bernapas atau pembengkakan wajah, segera cari bantuan medis.",
+                    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
