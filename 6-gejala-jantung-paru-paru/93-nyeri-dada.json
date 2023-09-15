@@ -1,0 +1,45 @@
+{
+  "gejala": "Gejala Jantung dan Paru-Paru",
+  "judul": "Nyeri Dada",
+  "pertanyaan": "Apakah nyeri dada Anda tajam dan menusuk, terutama saat bernapas?",
+  "q": {
+    "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami pleuritis, peradangan pada selaput tipis yang melapisi paru-paru dan dinding dada. Infeksi virus, bakteri, atau penyakit autoimun bisa jadi penyebabnya.\nTINDAKAN\n Istirahatlah di tempat yang nyaman, hindari aktivitas berat dan bernapas dalam-dalam. Anda bisa mencoba kompres hangat pada area yang nyeri. Jika gejalanya berlanjut, pertimbangkan untuk konsultasi dengan dokter spesialis penyakit dalam atau paru.",
+    "tidak": {
+      "q": "Apakah nyeri dada Anda datang tiba-tiba dan sangat parah, serta menyebar ke lengan, leher, atau rahang Anda?",
+      "ya": "KEMUNGKINAN PENYEBAB\n Ini mungkin tanda serangan jantung, di mana aliran darah ke bagian jantung terblokade. Faktor risiko termasuk hipertensi, kolesterol tinggi, dan merokok.\nTINDAKAN\n Duduklah dengan tenang dan coba untuk rileks. Jangan beraktivitas. Jika Anda memiliki obat nitrogliserin, ambillah sesuai anjuran. Jika nyeri tidak mereda dalam beberapa menit, segera cari bantuan medis.",
+      "tidak": {
+        "q": "Apakah Anda merasa sakit di bagian tengah dada Anda, yang terasa seperti terbakar dan memburuk setelah makan atau saat berbaring?",
+        "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin memiliki refluks asam atau GERD, di mana asam dari perut kembali ke kerongkongan. Faktor pemicu termasuk makan besar, makanan berlemak, dan posisi berbaring setelah makan.\nTINDAKAN\n Cobalah untuk makan dalam porsi kecil dan hindari makanan yang memicu seperti pedas, berlemak, atau asam. Elevasi kepala Anda saat tidur dan hindari berbaring setelah makan. Jika gejala berlanjut, pertimbangkan untuk konsultasi dengan dokter spesialis penyakit dalam atau gastroenterologi.",
+        "tidak": {
+          "q": "Apakah nyeri dada Anda berkaitan dengan aktivitas fisik dan berkurang saat beristirahat?",
+          "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami angina, kondisi di mana otot jantung tidak mendapat cukup oksigen akibat penyempitan arteri koroner. Stres dan aktivitas fisik dapat memicunya.\nTINDAKAN\n Istirahatlah dan hindari aktivitas yang memicu nyeri. Anda bisa mengambil obat nitrogliserin jika memiliki resep. Jika gejala berlanjut atau memburuk, pertimbangkan untuk konsultasi dengan dokter spesialis jantung.",
+          "tidak": {
+            "q": "Apakah Anda baru saja mengalami cedera atau trauma di dada Anda?",
+            "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami cedera pada tulang rusuk atau otot dada. Trauma, jatuh, atau benturan bisa menjadi penyebab cedera ini.\nTINDAKAN\n Istirahatlah dan hindari aktivitas yang meningkatkan nyeri. Anda bisa mencoba kompres dingin untuk mengurangi pembengkakan dan rasa sakit. Jika nyeri berlanjut atau memburuk, pertimbangkan untuk konsultasi dengan dokter umum atau spesialis ortopedi.",
+            "tidak": {
+              "q": "Apakah Anda mengalami sesak napas atau batuk dengan nyeri dada Anda?",
+              "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami kondisi paru-paru seperti radang paru-paru atau emboli paru. Kedua kondisi ini berkaitan dengan pembuluh darah dan aliran udara di paru-paru.\nTINDAKAN\n Cobalah untuk istirahat dan minum banyak cairan. Hindari asap dan udara yang kotor. Jika Anda merasa kesulitan bernapas atau gejala tidak membaik, segera cari bantuan medis.",
+              "tidak": {
+                "q": "Apakah Anda merasa ada sesuatu yang terjepit di tengah dada Anda, terutama setelah makan?",
+                "ya": {
+                  "q": "Apakah Anda juga merasa mual atau muntah?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami batu empedu atau peradangan di kandung empedu. Kondisi ini berkaitan dengan akumulasi batu atau peradangan pada kantong empedu.\nTINDAKAN\n Istirahatlah dan hindari makanan berlemak. Anda bisa mencoba kompres hangat di area yang nyeri. Jika gejala berlanjut atau memburuk, pertimbangkan untuk konsultasi dengan dokter spesialis bedah atau penyakit dalam.",
+                  "tidak": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami spasmus esofagus, yaitu ketika otot kerongkongan berkontraksi secara tidak teratur. Hal ini bisa dipicu oleh asupan makanan atau minuman tertentu.\nTINDAKAN\n Cobalah minum air hangat untuk meredakan spasmus. Hindari makanan atau minuman yang memicu. Jika gejala berlanjut, pertimbangkan untuk konsultasi dengan dokter spesialis penyakit dalam atau gastroenterologi."
+                },
+                "tidak": {
+                  "q": "Apakah nyeri dada Anda disertai dengan rasa sakit yang menjalar ke punggung?",
+                  "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami aorta diseksi, kondisi serius di mana dinding dalam pembuluh darah utama dari jantung mengalami robekan. Hal ini bisa disebabkan oleh tekanan darah tinggi atau kerusakan jaringan.\nTINDAKAN\n Duduklah dengan tenang dan hindari aktivitas berat. Jika rasa sakit meningkat atau Anda merasa pusing, segera cari bantuan medis.",
+                  "tidak": {
+                    "q": "Apakah Anda merasa nyeri dada Anda berkaitan dengan stres atau kecemasan?",
+                    "ya": "KEMUNGKINAN PENYEBAB\n Anda mungkin mengalami gangguan kecemasan atau serangan panik. Kondisi ini bisa meniru gejala penyakit jantung, namun tidak berhubungan dengan masalah jantung.\nTINDAKAN\n Cobalah teknik relaksasi seperti pernapasan dalam-dalam atau meditasi. Hindari kafein atau stimulan lainnya. Jika gejala berlanjut atau memburuk, pertimbangkan konsultasi dengan psikolog atau psikiater.",
+                    "tidak": "PERIKSAKAN KE DOKTER, KAMI BELUM MENDAPATKAN DIAGNOSA LANJUT DARI HAL INI."
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
