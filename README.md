@@ -88,7 +88,7 @@ Sebagai contoh lihat pada case [56](./1-gejala-umum/56-tidak-enak-badan.json) da
 
 ## 10. Gejala Di Otak dan Sistem Saraf
 25. Sakit kepala `22-sakit-kepala.json`
-26. Kedutan dan/atau gemetar `68-kedutan-dan-atau-gemetar.json`(WIP)
+26. Kedutan dan/atau gemetar `68-kedutan-dan-atau-gemetar.json`✅
 
 ## 11. Gejala Di Kulit
 27. Gatal-gatal `18-gatal-gatal.json` ✅
